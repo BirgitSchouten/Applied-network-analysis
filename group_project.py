@@ -1,19 +1,35 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 
-graph = nx.Graph()
+graph_early = nx.DiGraph()
+graph_middle = nx.DiGraph()
+graph_late = nx.DiGraph()
 
 with open('nodelist.csv', 'r') as nodefile:
     next(nodefile) # skip first line with headers
     for line in nodefile:
         id, role, community = line.split(',')
-        graph.add_node(id, role = role, community = community)
+        graph_early.add_node(id, role = role, community = community)
+        graph_middle.add_node(id, role = role, community = community)
+        graph_late.add_node(id, role = role, community = community)
 
 with open('edgelist-early.csv', 'r') as edgefile:
-    next(edgefile)
+    next(edgefile) # skip headers
     for line in edgefile:
         node1, node2, weight = line.split(',')
-        graph.add_edge(node1, node2, weight = weight)
+        graph_early.add_edge(node1, node2, weight = weight)
 
-nx.draw(graph)
-plt.savefig('graph.png')
+with open('edgelist-middle.csv', 'r') as edgefile:
+    next(edgefile) # skip headers
+    for line in edgefile:
+        node1, node2, weight = line.split(',')
+        graph_middle.add_edge(node1, node2, weight = weight)
+
+with open('edgelist-late.csv', 'r') as edgefile:
+    next(edgefile) # skip headers
+    for line in edgefile:
+        node1, node2, weight = line.split(',')
+        graph_late.add_edge(node1, node2, weight = weight)
+
+nx.draw_networkx(graph_early, pos=nx.spring_layout(graph_early), with_labels = False)
+plt.savefig('graph_early.png')
