@@ -1,0 +1,4 @@
+Column Label,Contents,Notes
+V1,Ranges from 1 to 36,This column indicates the unique identifier of the student who contacted another individual. These students interacted with the people listed in column V2.
+V2,Ranges from 1 to 194,This column indicates the unique identifier of all individuals listed as having been contacted by students. These individuals received a tie from a student in column V1.
+weight,Ranges from 1 to 3,"This column contains data on the frequency of interaction between students and their contacts listed in ""V2."" Students were given the options ""1-2 times"", ""3-4 times"", ""5-6 times"" and 6+ times."" The options 5-6 times"" and ""6+ times"" were combined. These were recoded as 1 (1-2 times), 2 (3-4 times), and 3 (5+ times). "

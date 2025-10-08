@@ -1,0 +1,4 @@
+﻿Column Label,Contents,Notes
+id,Ranges from 1 to 36,This column contains unique student identifiers for each student who participated in the research
+role,"Categories include ""Research partner classmate"",""Non-partner classmate"",""Instructor"",""Teaching assistant"",""Friend (non-classmate)"",""Family member"", and ""Other""","This column indicates the self-reported role of a students' contact. Students were given the options ""Research partner classmate"",""Non-partner classmate"",""Instructor"",""Teaching assistant"",""Friend (non-classmate)"",""Family member"", ""Out-of-class expert"", and ""Other."" Out-of-class expert"" was rarely selected and, thus, was ultimately combined with ""Other."""
+community,"Categories include ""Professional"", ""Personal"", and ""Other person""","This column indicates the community to which a node belongs (e.g, the personal community, professional community, or other)."
