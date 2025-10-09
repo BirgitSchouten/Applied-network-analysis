@@ -48,17 +48,36 @@ for n, data in graph_early.nodes(data = True):
         node_colors.append("#3c3c3c")
 
 # define edge color based on weight
-subset_color = ["#ffffff", "#c1839f", "#884463", "#361b27"]
-edge_colors_early = [subset_color[data['weight']] for start, end, data in graph_early.edges(data = True)]
-edge_colors_middle = [subset_color[data['weight']] for start, end, data in graph_middle.edges(data = True)]
-edge_colors_late = [subset_color[data['weight']] for start, end, data in graph_late.edges(data = True)]
+subset_edge_color = ["#ffffff", "#c1839f", "#884463", "#361b27"]
+edge_colors_early = [subset_edge_color[data['weight']] for start, end, data in graph_early.edges(data = True)]
+edge_colors_middle = [subset_edge_color[data['weight']] for start, end, data in graph_middle.edges(data = True)]
+edge_colors_late = [subset_edge_color[data['weight']] for start, end, data in graph_late.edges(data = True)]
 
 # visualise graphs
-fig, (ax0, ax1, ax2) = plt.subplots(nrows = 1, ncols = 3, sharex = True, figsize = (24, 7))
+fig, (ax0, ax1, ax2, ax3) = plt.subplots(nrows = 1,
+                                    ncols = 4,
+                                    sharex = True,
+                                    figsize = (25, 7),
+                                    gridspec_kw = {'width_ratios' : [4, 4, 4, 1]})
 fig.suptitle("Directed network of self-reported interations between students in biology course")
 
+color_nodes_legend = {'Professional': "#ff5A5f",'Personal': "#087e8b",'Other': "#3c3c3c"}
+for label in color_nodes_legend:
+    ax3.plot([], [], 
+             color = 'white',
+             marker = 'o',
+             markersize = 11,
+             markerfacecolor = color_nodes_legend[label],
+             label = label)
+
+color_edges_legend = {'Talked once or twice': "#c1839f", 'Talked 3-4 times': "#884463", 'Talked 5-6+ times': "#361b27"}
+for label in color_edges_legend:
+    ax3.plot([], [],
+             color = color_edges_legend[label],
+             label = label)
+
 ax0.set_title('Week 6')
-nx.draw_networkx(graph_early, pos=nx.spring_layout(graph_early),
+nx.draw_networkx(graph_early, pos=nx.spring_layout(graph_early, seed = 57),
                  with_labels = False,
                  node_size = 100,
                  node_color = node_colors,
@@ -66,7 +85,7 @@ nx.draw_networkx(graph_early, pos=nx.spring_layout(graph_early),
                  ax = ax0)
 
 ax1.set_title('Week 11')
-nx.draw_networkx(graph_middle, pos=nx.spring_layout(graph_middle),
+nx.draw_networkx(graph_middle, pos=nx.spring_layout(graph_middle, seed = 57),
                  with_labels = False,
                  node_size = 100,
                  node_color = node_colors,
@@ -74,11 +93,14 @@ nx.draw_networkx(graph_middle, pos=nx.spring_layout(graph_middle),
                  ax = ax1)
 
 ax2.set_title('Week 15')
-nx.draw_networkx(graph_late, pos=nx.spring_layout(graph_late),
+nx.draw_networkx(graph_late, pos=nx.spring_layout(graph_late, seed = 57),
                  with_labels = False,
                  node_size = 100,
                  node_color = node_colors,
                  edge_color = edge_colors_late,
                  ax = ax2)
 
-plt.savefig('all_graps.png')
+ax3.axis('off')
+
+plt.legend(frameon = False)
+plt.savefig('all_graps_community.png')
