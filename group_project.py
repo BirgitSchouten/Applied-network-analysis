@@ -37,15 +37,29 @@ isolates_early = list(nx.isolates(graph_early))
 isolates_middle = list(nx.isolates(graph_middle))
 isolates_late = list(nx.isolates(graph_late))
 
-# define coloring of nodes in visualisation based on the community they're placed in
+# # define coloring of nodes in visualisation based on the community they're placed in
+# node_colors = []
+# for n, data in graph_early.nodes(data = True):
+#     if data['community'] == 'Professional' or data['community'] == "Professional_I":
+#         node_colors.append("#ff5A5f")
+#     elif data['community'] == "Personal":
+#         node_colors.append("#087e8b")
+#     else:
+#         node_colors.append("#3c3c3c")
+
+# define coloring of nodes in visualisation based on the role they're given
 node_colors = []
 for n, data in graph_early.nodes(data = True):
-    if data['community'] == 'Professional' or data['community'] == "Professional_I":
-        node_colors.append("#ff5A5f")
-    elif data['community'] == "Personal":
-        node_colors.append("#087e8b")
+    if data['role'] == 'Student':
+        node_colors.append("#7FD1B9")
+    elif data['role'] == 'TA' or data['role'] == 'Instructor':
+        node_colors.append("#0E0004")
+    elif data['role'] == 'Friend':
+        node_colors.append("#D3A588")
+    elif data['role'] == 'Family member':
+        node_colors.append("#ECE2D0")
     else:
-        node_colors.append("#3c3c3c")
+        node_colors.append("#084C61")
 
 # define edge color based on weight
 subset_edge_color = ["#ffffff", "#c1839f", "#884463", "#361b27"]
@@ -61,7 +75,22 @@ fig, (ax0, ax1, ax2, ax3) = plt.subplots(nrows = 1,
                                     gridspec_kw = {'width_ratios' : [4, 4, 4, 1]})
 fig.suptitle("Directed network of self-reported interations between students in biology course")
 
-color_nodes_legend = {'Professional': "#ff5A5f",'Personal': "#087e8b",'Other': "#3c3c3c"}
+# # nodes legend for community
+# color_nodes_legend = {'Professional': "#ff5A5f",'Personal': "#087e8b",'Other': "#3c3c3c"}
+# for label in color_nodes_legend:
+#     ax3.plot([], [], 
+#              color = 'white',
+#              marker = 'o',
+#              markersize = 11,
+#              markerfacecolor = color_nodes_legend[label],
+#              label = label)
+    
+# nodes legend for role
+color_nodes_legend = {'Student': "#7FD1B9",
+                      'TA or Instructor': "#0E0004",
+                      'Family member': "#ECE2D0",
+                      'Other': "#084C61"}
+
 for label in color_nodes_legend:
     ax3.plot([], [], 
              color = 'white',
@@ -103,4 +132,4 @@ nx.draw_networkx(graph_late, pos=nx.spring_layout(graph_late, seed = 57),
 ax3.axis('off')
 
 plt.legend(frameon = False)
-plt.savefig('all_graps_community.png')
+plt.savefig('all_graps_role.png')
