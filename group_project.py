@@ -32,42 +32,53 @@ with open('edgelist-late.csv', 'r') as edgefile:
         node1, node2, weight = line.split(',')
         graph_late.add_edge(node1, node2, weight = int(weight.strip()))
 
+# remove unconnected nodes per week? ONLY FOR VISUALISATION
+isolates_early = list(nx.isolates(graph_early))
+isolates_middle = list(nx.isolates(graph_middle))
+isolates_late = list(nx.isolates(graph_late))
+
 # define coloring of nodes in visualisation based on the community they're placed in
 node_colors = []
 for n, data in graph_early.nodes(data = True):
-    if data['community'] == 'Professional':
-        node_colors.append("red")
+    if data['community'] == 'Professional' or data['community'] == "Professional_I":
+        node_colors.append("#ff5A5f")
     elif data['community'] == "Personal":
-        node_colors.append("blue")
+        node_colors.append("#087e8b")
     else:
-        node_colors.append("violet")
+        node_colors.append("#3c3c3c")
 
 # define edge color based on weight
-subset_color = ["blue", "yellow", "greenyellow", "limegreen"]
+subset_color = ["#ffffff", "#c1839f", "#884463", "#361b27"]
 edge_colors_early = [subset_color[data['weight']] for start, end, data in graph_early.edges(data = True)]
 edge_colors_middle = [subset_color[data['weight']] for start, end, data in graph_middle.edges(data = True)]
 edge_colors_late = [subset_color[data['weight']] for start, end, data in graph_late.edges(data = True)]
 
-plt.figure(1)
+# visualise graphs
+fig, (ax0, ax1, ax2) = plt.subplots(nrows = 1, ncols = 3, sharex = True, figsize = (24, 7))
+fig.suptitle("Directed network of self-reported interations between students in biology course")
+
+ax0.set_title('Week 6')
 nx.draw_networkx(graph_early, pos=nx.spring_layout(graph_early),
                  with_labels = False,
                  node_size = 100,
                  node_color = node_colors,
-                 edge_color = edge_colors_early)
-plt.savefig('graph_early.png')
+                 edge_color = edge_colors_early,
+                 ax = ax0)
 
-plt.figure(2)
+ax1.set_title('Week 11')
 nx.draw_networkx(graph_middle, pos=nx.spring_layout(graph_middle),
                  with_labels = False,
                  node_size = 100,
                  node_color = node_colors,
-                 edge_color = edge_colors_middle)
-plt.savefig('graph_middle.png')
+                 edge_color = edge_colors_middle,
+                 ax = ax1)
 
-plt.figure(3)
+ax2.set_title('Week 15')
 nx.draw_networkx(graph_late, pos=nx.spring_layout(graph_late),
                  with_labels = False,
                  node_size = 100,
                  node_color = node_colors,
-                 edge_color = edge_colors_late)
-plt.savefig('graph_late.png')
+                 edge_color = edge_colors_late,
+                 ax = ax2)
+
+plt.savefig('all_graps.png')
