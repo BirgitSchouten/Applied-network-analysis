@@ -89,6 +89,7 @@ fig.suptitle("Directed network of self-reported interations between students in 
 color_nodes_legend = {'Student': "#7FD1B9",
                       'TA or Instructor': "#0E0004",
                       'Family member': "#ECE2D0",
+                      'Friend': "#D3A588",
                       'Other': "#084C61"}
 
 for label in color_nodes_legend:
