@@ -2,15 +2,16 @@ import xml.etree.ElementTree as ET
 
 # get all ECLI numbers because these are also the names of the files
 ECLI_numbers = []
-with open("ECLI/algemeen.txt", 'r') as infile:
+with open("ECLI/algemeen_totaal.txt", 'r') as infile:
     for line in infile:
         ECLI_numbers.append(line.strip())
 
 counter = 1
-with open("output/first_nodelist.csv", 'w') as outfile:
+with open("output/nodelist.csv", 'w') as outfile:
     outfile.write("id, ECLI, rechtbank, rechtsgebied, subrechtsgebied\n")
     for ecli in ECLI_numbers:
-        with open(f"output/algemeen/{ecli}.txt", 'r') as infile:
+        print(ecli)
+        with open(f"output/algemeen_referenties2/{ecli}.txt", 'r') as infile:
             whole_text = infile.read()
 
             # parse XML file

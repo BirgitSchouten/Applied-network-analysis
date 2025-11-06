@@ -3,7 +3,7 @@ from test2 import find_ECLI_in_string
 
 # get all ECLI numbers because these are also the names of the files
 ECLI_numbers = []
-with open("ECLI/algemeen.txt", 'r') as infile:
+with open("ECLI/referenties_algemeen1.txt", 'r') as infile:
     for line in infile:
         ECLI_numbers.append(line.strip())
 
@@ -15,7 +15,7 @@ with open("ECLI/algemeen.txt", 'r') as infile:
 
 referenced_ECLI_numbers = set()
 for ecli in ECLI_numbers:
-    with open(f"output/algemeen/{ecli}.txt", 'r') as infile:
+    with open(f"output/algemeen_referenties/{ecli}.txt", 'r') as infile:
         whole_text = infile.read()
 
         # parse XML file
@@ -37,6 +37,6 @@ for ecli in ECLI_numbers:
         for number in verdict_referenced_ECLI_numbers:
             referenced_ECLI_numbers.add(number)
 
-with open("ECLI/referenties_algemeen1.txt", 'w') as outfile:
+with open("ECLI/referenties_algemeen2.txt", 'w') as outfile:
     for number in referenced_ECLI_numbers:
         outfile.write(f"{number}\n")
