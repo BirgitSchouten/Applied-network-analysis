@@ -1,16 +1,17 @@
 import requests
 from urllib.parse import urlencode
 
-# define base_url for retrieving verdict
+# define base_url for retrieving metadata
 base_url = "https://data.rechtspraak.nl/uitspraken/content?"
 
 # define search params from retrieved ECLI numbers
-with open("ECLI/referenties_algemeen1.txt", 'r') as input:
+with open("ECLI/algemeen.txt", 'r') as input:
     for line in input:
         ecli = line.strip()
 
         search_params = {
-            "id": ecli
+            "id": ecli,
+            "return": "META"
         }
 
         # encode difficult chars in string to %xx for a url
@@ -20,5 +21,5 @@ with open("ECLI/referenties_algemeen1.txt", 'r') as input:
         response = requests.get(base_url, params = search_string)
 
         # print to output file for analysing how to edit and select relevant data
-        with open(f"output/algemeen_referenties/{ecli}.txt", 'w') as outfile:
+        with open(f"output/algemeen/{ecli}.txt", 'w') as outfile:
             outfile.write(response.text)

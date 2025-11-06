@@ -1,0 +1,1001 @@
+id, ECLI, rechtbank, rechtsgebied, subrechtsgebied
+1, ECLI:NL:RBDHA:2025:20648, Bestuursrecht, 
+2, ECLI:NL:RBDHA:2025:20849, Bestuursrecht, Vreemdelingenrecht
+3, ECLI:NL:OGEAM:2025:110, Civiel recht, 
+4, ECLI:NL:RBDHA:2025:20848, Bestuursrecht, Vreemdelingenrecht
+5, ECLI:NL:OGEAM:2025:109, Civiel recht, 
+6, ECLI:NL:RBROT:2025:12830, Civiel recht, 
+7, ECLI:NL:RBDHA:2025:20847, Bestuursrecht, Vreemdelingenrecht
+8, ECLI:NL:GHAMS:2025:2952, Bestuursrecht, Belastingrecht
+9, ECLI:NL:RBLIM:2025:10943, Strafrecht, 
+10, ECLI:NL:OGEAM:2025:108, Civiel recht, 
+11, ECLI:NL:GHAMS:2025:2955, Bestuursrecht, Belastingrecht
+12, ECLI:NL:RBDHA:2025:20845, Bestuursrecht, Vreemdelingenrecht
+13, ECLI:NL:GHAMS:2025:2956, Bestuursrecht, Belastingrecht
+14, ECLI:NL:RBLIM:2025:10940, Strafrecht, 
+15, ECLI:NL:GHAMS:2025:2957, Bestuursrecht, Belastingrecht
+16, ECLI:NL:GHAMS:2025:2958, Bestuursrecht, Belastingrecht
+17, ECLI:NL:RBZWB:2024:6147, Strafrecht, 
+18, ECLI:NL:GHSHE:2025:3040, Strafrecht, 
+19, ECLI:NL:RBDHA:2025:20844, Bestuursrecht, Vreemdelingenrecht
+20, ECLI:NL:RBMNE:2025:5807, Bestuursrecht, Socialezekerheidsrecht
+21, ECLI:NL:OGEAM:2025:107, Civiel recht, 
+22, ECLI:NL:RBMNE:2024:7757, Civiel recht, 
+23, ECLI:NL:RBZWB:2025:7538, Bestuursrecht, 
+24, ECLI:NL:RBDHA:2025:20843, Bestuursrecht, Vreemdelingenrecht
+25, ECLI:NL:RBZWB:2025:7537, Bestuursrecht, 
+26, ECLI:NL:RBZWB:2025:7536, Bestuursrecht, 
+27, ECLI:NL:RBDHA:2025:20842, Bestuursrecht, Vreemdelingenrecht
+28, ECLI:NL:RBDHA:2025:20836, Bestuursrecht, Vreemdelingenrecht
+29, ECLI:NL:RBDHA:2025:20841, Bestuursrecht, Vreemdelingenrecht
+30, ECLI:NL:RBZWB:2025:7267, Bestuursrecht, Belastingrecht
+31, ECLI:NL:RBZWB:2025:7249, Bestuursrecht, Belastingrecht
+32, ECLI:NL:RBAMS:2025:6243, Bestuursrecht, Belastingrecht
+33, ECLI:NL:GHAMS:2025:2895, Bestuursrecht, Belastingrecht
+34, ECLI:NL:RBZWB:2025:7272, Bestuursrecht, Belastingrecht
+35, ECLI:NL:RBAMS:2025:6240, Bestuursrecht, Belastingrecht
+36, ECLI:NL:RBDHA:2025:20839, Bestuursrecht, Vreemdelingenrecht
+37, ECLI:NL:RBZWB:2025:7319, Bestuursrecht, 
+38, ECLI:NL:RBDHA:2025:20838, Bestuursrecht, Vreemdelingenrecht
+39, ECLI:NL:RBDHA:2025:20837, Bestuursrecht, Vreemdelingenrecht
+40, ECLI:NL:RBZWB:2025:7545, Bestuursrecht, Bestuursprocesrecht
+41, ECLI:NL:RBZWB:2025:7540, Bestuursrecht, 
+42, ECLI:NL:RBZWB:2025:7542, Bestuursrecht, Bestuursprocesrecht
+43, ECLI:NL:RBDHA:2025:20833, Bestuursrecht, Vreemdelingenrecht
+44, ECLI:NL:RBZWB:2025:7523, Bestuursrecht, 
+45, ECLI:NL:RBNHO:2025:6610, Civiel recht, Arbeidsrecht
+46, ECLI:NL:GHDHA:2025:2086, Civiel recht, Personen- en familierecht
+47, ECLI:NL:RBDHA:2025:20823, Bestuursrecht, Vreemdelingenrecht
+48, ECLI:NL:RBROT:2025:12836, Civiel recht, 
+49, ECLI:NL:RBZWB:2025:6744, Civiel recht, Burgerlijk procesrecht
+50, ECLI:NL:RBDHA:2025:20333, Civiel recht, Personen- en familierecht
+51, ECLI:NL:RBDHA:2025:20830, Bestuursrecht, Vreemdelingenrecht
+52, ECLI:NL:RBZWB:2025:6782, Civiel recht, Verbintenissenrecht
+53, ECLI:NL:RBDHA:2025:20829, Bestuursrecht, Vreemdelingenrecht
+54, ECLI:NL:GHARL:2025:6497, Bestuursrecht, Bestuursstrafrecht
+55, ECLI:NL:RBDHA:2025:20828, Bestuursrecht, Vreemdelingenrecht
+56, ECLI:NL:GHDHA:2025:2151, Bestuursrecht, Belastingrecht
+57, ECLI:NL:RBDHA:2025:20825, Bestuursrecht, Vreemdelingenrecht
+58, ECLI:NL:RBDHA:2025:20824, Bestuursrecht, Vreemdelingenrecht
+59, ECLI:NL:RBDHA:2025:20820, Bestuursrecht, Vreemdelingenrecht
+60, ECLI:NL:RBDHA:2025:20815, Bestuursrecht, Vreemdelingenrecht
+61, ECLI:NL:RBAMS:2025:7897, Strafrecht, Materieel strafrecht
+62, ECLI:NL:RBDHA:2025:20819, Bestuursrecht, Vreemdelingenrecht
+63, ECLI:NL:RBDHA:2025:20818, Bestuursrecht, Vreemdelingenrecht
+64, ECLI:NL:RBDHA:2025:20338, Civiel recht, Personen- en familierecht
+65, ECLI:NL:RBDHA:2025:20817, Bestuursrecht, Vreemdelingenrecht
+66, ECLI:NL:RBDHA:2025:20816, Bestuursrecht, Vreemdelingenrecht
+67, ECLI:NL:RBROT:2025:12825, Civiel recht, Verbintenissenrecht
+68, ECLI:NL:RBDHA:2025:20814, Bestuursrecht, Vreemdelingenrecht
+69, ECLI:NL:RBDHA:2025:20813, Bestuursrecht, Vreemdelingenrecht
+70, ECLI:NL:RBDHA:2025:20647, Bestuursrecht, 
+71, ECLI:NL:RBDHA:2025:20812, Bestuursrecht, Vreemdelingenrecht
+72, ECLI:NL:RBDHA:2025:20811, Bestuursrecht, Vreemdelingenrecht
+73, ECLI:NL:RBDHA:2025:20646, Bestuursrecht, Vreemdelingenrecht
+74, ECLI:NL:RBDHA:2025:20810, Bestuursrecht, Vreemdelingenrecht
+75, ECLI:NL:GHARL:2025:6448, Bestuursrecht, Bestuursstrafrecht
+76, ECLI:NL:RBDHA:2025:20809, Bestuursrecht, Vreemdelingenrecht
+77, ECLI:NL:RBROT:2025:12884, Civiel recht, Personen- en familierecht
+78, ECLI:NL:GHDHA:2025:2150, Bestuursrecht, Belastingrecht
+79, ECLI:NL:GHARL:2025:6498, Bestuursrecht, Bestuursstrafrecht
+80, ECLI:NL:GHARL:2025:6976, Strafrecht, Strafprocesrecht
+81, ECLI:NL:RBROT:2025:12828, Civiel recht, Verbintenissenrecht
+82, ECLI:NL:RBDHA:2025:20804, Bestuursrecht, Vreemdelingenrecht
+83, ECLI:NL:RBNHO:2025:12881, Strafrecht, 
+84, ECLI:NL:RBNHO:2025:12884, Bestuursrecht, Bestuursstrafrecht
+85, ECLI:NL:RBDHA:2025:20328, Civiel recht, Personen- en familierecht
+86, ECLI:NL:RBGEL:2025:2035, Civiel recht, Personen- en familierecht
+87, ECLI:NL:GHARL:2025:6336, Civiel recht, Personen- en familierecht
+88, ECLI:NL:RBZWB:2025:7293, Bestuursrecht, Omgevingsrecht
+89, ECLI:NL:RBNHO:2025:12883, Bestuursrecht, Bestuursstrafrecht
+90, ECLI:NL:RBAMS:2025:7592, Bestuursrecht, Bestuursprocesrecht
+91, ECLI:NL:GHARL:2025:6404, Strafrecht, Strafprocesrecht
+92, ECLI:NL:GHARL:2025:6579, Bestuursrecht, Bestuursstrafrecht
+93, ECLI:NL:RBDHA:2025:20802, Bestuursrecht, Vreemdelingenrecht
+94, ECLI:NL:RBNHO:2025:12882, Bestuursrecht, Bestuursstrafrecht
+95, ECLI:NL:GHARL:2025:6373, Bestuursrecht, Bestuursstrafrecht
+96, ECLI:NL:RBAMS:2025:7591, Bestuursrecht, Bestuursprocesrecht
+97, ECLI:NL:RBNHO:2025:12880, Bestuursrecht, Bestuursstrafrecht
+98, ECLI:NL:RBDHA:2025:20335, Civiel recht, Personen- en familierecht
+99, ECLI:NL:RBDHA:2025:20798, Bestuursrecht, Vreemdelingenrecht
+100, ECLI:NL:RBNHO:2025:11529, Civiel recht, Arbeidsrecht
+101, ECLI:NL:RBAMS:2025:7529, Bestuursrecht, Belastingrecht
+102, ECLI:NL:RBZWB:2025:7616, Strafrecht, 
+103, ECLI:NL:RBNHO:2025:12879, Bestuursrecht, Bestuursstrafrecht
+104, ECLI:NL:RBDHA:2025:20801, Bestuursrecht, Vreemdelingenrecht
+105, ECLI:NL:RBAMS:2025:7375, Bestuursrecht, Omgevingsrecht
+106, ECLI:NL:RBNHO:2025:12878, Bestuursrecht, Bestuursstrafrecht
+107, ECLI:NL:RBNHO:2025:12539, Civiel recht, Personen- en familierecht
+108, ECLI:NL:RBDHA:2025:20800, Bestuursrecht, Vreemdelingenrecht
+109, ECLI:NL:RBNHO:2025:12877, Bestuursrecht, Bestuursstrafrecht
+110, ECLI:NL:RBDHA:2025:20796, Bestuursrecht, Vreemdelingenrecht
+111, ECLI:NL:RBDHA:2025:20797, Bestuursrecht, Vreemdelingenrecht
+112, ECLI:NL:RBDHA:2025:20529, Bestuursrecht, Vreemdelingenrecht
+113, ECLI:NL:RBNHO:2025:12875, Bestuursrecht, Bestuursstrafrecht
+114, ECLI:NL:RBNHO:2025:12876, Bestuursrecht, Bestuursstrafrecht
+115, ECLI:NL:RBDHA:2025:20504, Bestuursrecht, Vreemdelingenrecht
+116, ECLI:NL:RBDHA:2025:20329, Civiel recht, Personen- en familierecht
+117, ECLI:NL:RBNHO:2025:12873, Bestuursrecht, Bestuursstrafrecht
+118, ECLI:NL:RBROT:2025:12956, Civiel recht, Personen- en familierecht
+119, ECLI:NL:RBDHA:2025:20794, Bestuursrecht, Vreemdelingenrecht
+120, ECLI:NL:RBOVE:2025:6413, Strafrecht, 
+121, ECLI:NL:RBNHO:2025:12872, Bestuursrecht, Bestuursstrafrecht
+122, ECLI:NL:RBZWB:2025:7534, Bestuursrecht, Socialezekerheidsrecht
+123, ECLI:NL:GHDHA:2025:2148, Bestuursrecht, Belastingrecht
+124, ECLI:NL:RBZWB:2025:7376, Bestuursrecht, 
+125, ECLI:NL:RBNHO:2025:12869, Bestuursrecht, Bestuursstrafrecht
+126, ECLI:NL:GHARL:2025:6580, Bestuursrecht, Bestuursstrafrecht
+127, ECLI:NL:RBROT:2025:12875, Civiel recht, 
+128, ECLI:NL:RBNNE:2025:4572, Strafrecht, Materieel strafrecht
+129, ECLI:NL:RBNHO:2025:12868, Bestuursrecht, Bestuursstrafrecht
+130, ECLI:NL:RBDHA:2025:20790, Bestuursrecht, Vreemdelingenrecht
+131, ECLI:NL:RBOVE:2025:6412, Strafrecht, 
+132, ECLI:NL:RBROT:2025:12883, Civiel recht, Personen- en familierecht
+133, ECLI:NL:GHSHE:2025:2709, Bestuursrecht, Belastingrecht
+134, ECLI:NL:GHSHE:2025:2586, Bestuursrecht, Belastingrecht
+135, ECLI:NL:GHSHE:2025:2596, Bestuursrecht, Belastingrecht
+136, ECLI:NL:RBDHA:2025:20780, Bestuursrecht, Vreemdelingenrecht
+137, ECLI:NL:RBROT:2025:12953, Bestuursrecht, Socialezekerheidsrecht
+138, ECLI:NL:RBDHA:2025:20331, Civiel recht, Personen- en familierecht
+139, ECLI:NL:RBZWB:2025:7512, Bestuursrecht, 
+140, ECLI:NL:RBZWB:2025:7324, Bestuursrecht, Omgevingsrecht
+141, ECLI:NL:GHARL:2025:1270, Bestuursrecht, Belastingrecht
+142, ECLI:NL:RBNHO:2025:12366, Civiel recht, 
+143, ECLI:NL:RBDHA:2025:20778, Bestuursrecht, Vreemdelingenrecht
+144, ECLI:NL:RBDHA:2025:20663, Strafrecht, 
+145, ECLI:NL:RBZWB:2025:7273, Bestuursrecht, Socialezekerheidsrecht
+146, ECLI:NL:GHAMS:2025:2989, Civiel recht, Personen- en familierecht
+147, ECLI:NL:RBDHA:2024:17266, Civiel recht, Arbeidsrecht
+148, ECLI:NL:GHDHA:2025:2147, Bestuursrecht, Belastingrecht
+149, ECLI:NL:RBROT:2025:12952, Bestuursrecht, Socialezekerheidsrecht
+150, ECLI:NL:RBZWB:2025:7535, Bestuursrecht, Bestuursstrafrecht
+151, ECLI:NL:RBDHA:2025:20318, Civiel recht, 
+152, ECLI:NL:RBZWB:2025:7430, Bestuursrecht, Belastingrecht
+153, ECLI:NL:RBDHA:2025:20776, Bestuursrecht, Vreemdelingenrecht
+154, ECLI:NL:RBNHO:2025:12524, Civiel recht, Insolventierecht
+155, ECLI:NL:GHARL:2025:6958, Strafrecht, 
+156, ECLI:NL:RBZWB:2025:7431, Bestuursrecht, Belastingrecht
+157, ECLI:NL:GHARL:2025:6960, Strafrecht, 
+158, ECLI:NL:RBNHO:2025:12365, Civiel recht, 
+159, ECLI:NL:RBZWB:2025:7251, Bestuursrecht, Belastingrecht
+160, ECLI:NL:RBZWB:2025:7434, Bestuursrecht, Belastingrecht
+161, ECLI:NL:RBZWB:2025:7463, Bestuursrecht, 
+162, ECLI:NL:RBDHA:2025:20775, Bestuursrecht, Vreemdelingenrecht
+163, ECLI:NL:RBZWB:2025:7428, Bestuursrecht, Belastingrecht
+164, ECLI:NL:RBMNE:2025:470, Civiel recht, Personen- en familierecht
+165, ECLI:NL:RBDHA:2025:20676, Bestuursrecht, Vreemdelingenrecht
+166, ECLI:NL:RBZWB:2025:7432, Bestuursrecht, Belastingrecht
+167, ECLI:NL:RBDHA:2025:20774, Bestuursrecht, Vreemdelingenrecht
+168, ECLI:NL:RBNHO:2025:12364, Civiel recht, 
+169, ECLI:NL:RBROT:2024:14110, Bestuursrecht, 
+170, ECLI:NL:RBZWB:2025:7425, Bestuursrecht, Belastingrecht
+171, ECLI:NL:GHARL:2024:3488, Bestuursrecht, Belastingrecht
+172, ECLI:NL:RBZWB:2025:7426, Bestuursrecht, Belastingrecht
+173, ECLI:NL:RBDHA:2025:20773, Bestuursrecht, Vreemdelingenrecht
+174, ECLI:NL:RBZWB:2025:7427, Bestuursrecht, Belastingrecht
+175, ECLI:NL:RBDHA:2025:20670, Bestuursrecht, Vreemdelingenrecht
+176, ECLI:NL:RBDHA:2025:20772, Bestuursrecht, Vreemdelingenrecht
+177, ECLI:NL:RBDHA:2025:20771, Bestuursrecht, Vreemdelingenrecht
+178, ECLI:NL:GHDHA:2025:2146, Bestuursrecht, Belastingrecht
+179, ECLI:NL:RBDHA:2025:20770, Bestuursrecht, Vreemdelingenrecht
+180, ECLI:NL:RBNHO:2025:12347, Civiel recht, Verbintenissenrecht
+181, ECLI:NL:GHARL:2025:5172, Civiel recht, Personen- en familierecht
+182, ECLI:NL:GHARL:2025:4873, Civiel recht, 
+183, ECLI:NL:GHARL:2025:4707, Civiel recht, 
+184, ECLI:NL:RBDHA:2025:14345, Civiel recht, 
+185, ECLI:NL:GHSHE:2025:1703, Civiel recht, Verbintenissenrecht
+186, ECLI:NL:RBNHO:2025:8549, Civiel recht, Verbintenissenrecht
+187, ECLI:NL:RBNHO:2025:7510, Civiel recht, 
+188, ECLI:NL:RBNHO:2025:9290, Civiel recht, Verbintenissenrecht
+189, ECLI:NL:RBLIM:2025:6409, Civiel recht, Personen- en familierecht
+190, ECLI:NL:RBNHO:2025:5407, Civiel recht, Verbintenissenrecht
+191, ECLI:NL:RBDHA:2025:14068, Civiel recht, 
+192, ECLI:NL:RBMNE:2025:3828, Civiel recht, Personen- en familierecht
+193, ECLI:NL:RBGEL:2025:6895, Civiel recht, Personen- en familierecht
+194, ECLI:NL:RBROT:2025:4448, Civiel recht, 
+195, ECLI:NL:GHSHE:2025:1396, Civiel recht, 
+196, ECLI:NL:RBMNE:2024:6906, Civiel recht, 
+197, ECLI:NL:RBDHA:2025:20769, Bestuursrecht, Vreemdelingenrecht
+198, ECLI:NL:RBZWB:2025:7615, Strafrecht, 
+199, ECLI:NL:RBDHA:2025:20484, Strafrecht, 
+200, ECLI:NL:GHAMS:2025:2986, Civiel recht, Personen- en familierecht
+201, ECLI:NL:CRVB:2025:1589, Bestuursrecht, Socialezekerheidsrecht
+202, ECLI:NL:RBDHA:2025:20768, Bestuursrecht, Vreemdelingenrecht
+203, ECLI:NL:RBZWB:2025:7614, Strafrecht, 
+204, ECLI:NL:RBZWB:2025:7613, Strafrecht, 
+205, ECLI:NL:RBZWB:2025:7612, Strafrecht, 
+206, ECLI:NL:RBDHA:2025:20765, Bestuursrecht, Vreemdelingenrecht
+207, ECLI:NL:RBROT:2025:12668, Bestuursrecht, Bestuursprocesrecht
+208, ECLI:NL:RBDHA:2025:20764, Bestuursrecht, Vreemdelingenrecht
+209, ECLI:NL:RBOBR:2025:7142, Strafrecht, 
+210, ECLI:NL:RBMNE:2025:5840, Strafrecht, 
+211, ECLI:NL:RBDHA:2025:20763, Bestuursrecht, Vreemdelingenrecht
+212, ECLI:NL:RBMNE:2025:5655, Civiel recht, Internationaal privaatrecht
+213, ECLI:NL:RBDHA:2025:20762, Bestuursrecht, Vreemdelingenrecht
+214, ECLI:NL:RBDHA:2025:20761, Bestuursrecht, Vreemdelingenrecht
+215, ECLI:NL:GHARL:2025:6593, Bestuursrecht, Bestuursstrafrecht
+216, ECLI:NL:RBOBR:2025:7067, Civiel recht, 
+217, ECLI:NL:RBOBR:2025:7065, Civiel recht, 
+218, ECLI:NL:GHAMS:2025:2983, Civiel recht, Personen- en familierecht
+219, ECLI:NL:GHAMS:2025:2928, Civiel recht, 
+220, ECLI:NL:GHARL:2025:6108, Bestuursrecht, Bestuursstrafrecht
+221, ECLI:NL:RBMNE:2025:5656, Civiel recht, Verbintenissenrecht
+222, ECLI:NL:GHARL:2025:6622, Bestuursrecht, Bestuursstrafrecht
+223, ECLI:NL:RBDHA:2025:20759, Bestuursrecht, Vreemdelingenrecht
+224, ECLI:NL:GHARL:2025:6092, Bestuursrecht, Bestuursstrafrecht
+225, ECLI:NL:RBDHA:2025:20758, Bestuursrecht, Vreemdelingenrecht
+226, ECLI:NL:RBDHA:2025:20757, Bestuursrecht, Vreemdelingenrecht
+227, ECLI:NL:RBDHA:2025:20756, Bestuursrecht, Vreemdelingenrecht
+228, ECLI:NL:GHARL:2025:6091, Bestuursrecht, Bestuursstrafrecht
+229, ECLI:NL:RVS:2025:5189, Bestuursrecht, Omgevingsrecht
+230, ECLI:NL:RBDHA:2025:20755, Bestuursrecht, Vreemdelingenrecht
+231, ECLI:NL:RBDHA:2025:20297, Civiel recht, Personen- en familierecht
+232, ECLI:NL:RBDHA:2025:20754, Bestuursrecht, Vreemdelingenrecht
+233, ECLI:NL:RBAMS:2025:8344, Strafrecht, Europees strafrecht
+234, ECLI:NL:RBDHA:2025:20753, Bestuursrecht, Vreemdelingenrecht
+235, ECLI:NL:RBGEL:2025:9293, Civiel recht, Personen- en familierecht
+236, ECLI:NL:RBZWB:2025:7238, Bestuursrecht, Belastingrecht
+237, ECLI:NL:RBDHA:2025:20751, Bestuursrecht, Vreemdelingenrecht
+238, ECLI:NL:RBDHA:2025:20302, Civiel recht, Personen- en familierecht
+239, ECLI:NL:GHARL:2025:6634, Bestuursrecht, Bestuursstrafrecht
+240, ECLI:NL:GHARL:2025:5996, Bestuursrecht, Bestuursstrafrecht
+241, ECLI:NL:GHAMS:2025:2891, Bestuursrecht, Belastingrecht
+242, ECLI:NL:GHARL:2025:6046, Bestuursrecht, Bestuursstrafrecht
+243, ECLI:NL:RBGEL:2025:9022, Civiel recht, Personen- en familierecht
+244, ECLI:NL:RBAMS:2025:7240, Civiel recht, Insolventierecht
+245, ECLI:NL:RBGEL:2025:8971, Civiel recht, Insolventierecht
+246, ECLI:NL:RBDHA:2025:18947, Civiel recht, Insolventierecht
+247, ECLI:NL:RBROT:2025:11822, Civiel recht, Arbeidsrecht
+248, ECLI:NL:GHDHA:2024:2297, Civiel recht, Verbintenissenrecht
+249, ECLI:NL:RBDHA:2025:18732, Civiel recht, Insolventierecht
+250, ECLI:NL:GHAMS:2025:2843, Civiel recht, 
+251, ECLI:NL:RBDHA:2025:20750, Bestuursrecht, Vreemdelingenrecht
+252, ECLI:NL:RBGEL:2020:1874, Strafrecht, 
+253, ECLI:NL:RBDHA:2025:20749, Bestuursrecht, Vreemdelingenrecht
+254, ECLI:NL:RBDHA:2025:20303, Civiel recht, Personen- en familierecht
+255, ECLI:NL:GHARL:2025:6644, Bestuursrecht, Bestuursstrafrecht
+256, ECLI:NL:CRVB:2025:1605, Bestuursrecht, Socialezekerheidsrecht
+257, ECLI:NL:GHARL:2025:6642, Bestuursrecht, Bestuursstrafrecht
+258, ECLI:NL:RBDHA:2025:20748, Bestuursrecht, Vreemdelingenrecht
+259, ECLI:NL:RBDHA:2025:20747, Bestuursrecht, Vreemdelingenrecht
+260, ECLI:NL:GHAMS:2025:2892, Bestuursrecht, Belastingrecht
+261, ECLI:NL:GHARL:2025:6682, Bestuursrecht, Bestuursstrafrecht
+262, ECLI:NL:RBROT:2025:12852, Civiel recht, Verbintenissenrecht
+263, ECLI:NL:RBDHA:2025:20746, Bestuursrecht, Vreemdelingenrecht
+264, ECLI:NL:RBDHA:2025:20301, Civiel recht, Personen- en familierecht
+265, ECLI:NL:GHAMS:2025:2721, Civiel recht, Personen- en familierecht
+266, ECLI:NL:RBNNE:2025:4257, Civiel recht, 
+267, ECLI:NL:RBZWB:2025:6717, Civiel recht, Personen- en familierecht
+268, ECLI:NL:RBROT:2025:12200, Civiel recht, Personen- en familierecht
+269, ECLI:NL:RBROT:2025:12206, Civiel recht, Personen- en familierecht
+270, ECLI:NL:RBROT:2025:12201, Civiel recht, Personen- en familierecht
+271, ECLI:NL:RBOVE:2025:6133, Civiel recht, 
+272, ECLI:NL:RBLIM:2025:10250, Civiel recht, 
+273, ECLI:NL:GHAMS:2025:2826, Civiel recht, Personen- en familierecht
+274, ECLI:NL:RBDHA:2025:20744, Bestuursrecht, Vreemdelingenrecht
+275, ECLI:NL:RBDHA:2025:20745, Bestuursrecht, Vreemdelingenrecht
+276, ECLI:NL:RBDHA:2025:20743, Bestuursrecht, Vreemdelingenrecht
+277, ECLI:NL:RBDHA:2025:20742, Bestuursrecht, Vreemdelingenrecht
+278, ECLI:NL:RBROT:2025:12834, Civiel recht, Arbeidsrecht
+279, ECLI:NL:RBDHA:2025:20298, Civiel recht, Personen- en familierecht
+280, ECLI:NL:CRVB:2025:1583, Bestuursrecht, Socialezekerheidsrecht
+281, ECLI:NL:RBDHA:2025:20741, Bestuursrecht, Vreemdelingenrecht
+282, ECLI:NL:RBROT:2025:12939, Strafrecht, 
+283, ECLI:NL:RBGEL:2025:8993, Civiel recht, Personen- en familierecht
+284, ECLI:NL:RBDHA:2025:20740, Bestuursrecht, Vreemdelingenrecht
+285, ECLI:NL:RBOVE:2025:6293, Bestuursrecht, Bestuursprocesrecht
+286, ECLI:NL:RBDHA:2025:20294, Civiel recht, Personen- en familierecht
+287, ECLI:NL:GHARL:2025:6745, Bestuursrecht, Bestuursstrafrecht
+288, ECLI:NL:RBDHA:2025:20292, Civiel recht, Personen- en familierecht
+289, ECLI:NL:RBROT:2025:12835, Civiel recht, Arbeidsrecht
+290, ECLI:NL:RBZWB:2025:7264, Bestuursrecht, Belastingrecht
+291, ECLI:NL:RBZWB:2025:7263, Bestuursrecht, Belastingrecht
+292, ECLI:NL:RBZWB:2025:7413, Bestuursrecht, Belastingrecht
+293, ECLI:NL:RBGEL:2025:8866, Civiel recht, Personen- en familierecht
+294, ECLI:NL:RBDHA:2025:20738, Bestuursrecht, Vreemdelingenrecht
+295, ECLI:NL:RBROT:2025:12826, Civiel recht, Arbeidsrecht
+296, ECLI:NL:GHARL:2025:6744, Bestuursrecht, Bestuursstrafrecht
+297, ECLI:NL:RBNHO:2025:12848, Civiel recht, 
+298, ECLI:NL:RBDHA:2025:20736, Bestuursrecht, Vreemdelingenrecht
+299, ECLI:NL:RBMNE:2025:5515, Bestuursrecht, 
+300, ECLI:NL:RBDHA:2025:20733, Bestuursrecht, Vreemdelingenrecht
+301, ECLI:NL:GHAMS:2025:2855, Civiel recht, 
+302, ECLI:NL:RBDHA:2025:20293, Civiel recht, Personen- en familierecht
+303, ECLI:NL:RBDHA:2025:20735, Bestuursrecht, Vreemdelingenrecht
+304, ECLI:NL:RBOBR:2025:7090, Civiel recht, Verbintenissenrecht
+305, ECLI:NL:RBMNE:2025:5341, Bestuursrecht, 
+306, ECLI:NL:RBDHA:2025:20732, Bestuursrecht, Vreemdelingenrecht
+307, ECLI:NL:RBDHA:2025:20731, Bestuursrecht, Vreemdelingenrecht
+308, ECLI:NL:GHARL:2025:6822, Bestuursrecht, Bestuursstrafrecht
+309, ECLI:NL:RBDHA:2025:20730, Bestuursrecht, Vreemdelingenrecht
+310, ECLI:NL:RBMNE:2025:5339, Bestuursrecht, 
+311, ECLI:NL:RBROT:2025:12843, Civiel recht, 
+312, ECLI:NL:RBDHA:2025:20729, Bestuursrecht, Vreemdelingenrecht
+313, ECLI:NL:RBDHA:2025:20728, Bestuursrecht, Vreemdelingenrecht
+314, ECLI:NL:RBDHA:2025:20287, Civiel recht, Personen- en familierecht
+315, ECLI:NL:RBMNE:2025:5338, Bestuursrecht, 
+316, ECLI:NL:RBDHA:2025:20727, Bestuursrecht, Vreemdelingenrecht
+317, ECLI:NL:RBMNE:2025:5505, Bestuursrecht, 
+318, ECLI:NL:RBMNE:2025:5345, Bestuursrecht, 
+319, ECLI:NL:RBDHA:2025:20726, Bestuursrecht, Vreemdelingenrecht
+320, ECLI:NL:RBDHA:2025:20725, Bestuursrecht, Vreemdelingenrecht
+321, ECLI:NL:RBMNE:2025:5507, Bestuursrecht, 
+322, ECLI:NL:RBROT:2025:12862, Civiel recht, 
+323, ECLI:NL:RBMNE:2025:5344, Bestuursrecht, 
+324, ECLI:NL:GHARL:2025:6853, Bestuursrecht, Bestuursstrafrecht
+325, ECLI:NL:RBDHA:2024:20828, Civiel recht, 
+326, ECLI:NL:GHDHA:2025:2290, Civiel recht, Verbintenissenrecht
+327, ECLI:NL:RBROT:2025:12842, Civiel recht, 
+328, ECLI:NL:RBDHA:2025:20724, Bestuursrecht, Vreemdelingenrecht
+329, ECLI:NL:RBMNE:2025:5508, Bestuursrecht, 
+330, ECLI:NL:RBDHA:2025:20723, Bestuursrecht, Vreemdelingenrecht
+331, ECLI:NL:RBAMS:2025:8311, Strafrecht, Europees strafrecht
+332, ECLI:NL:RBROT:2025:12813, Civiel recht, Burgerlijk procesrecht
+333, ECLI:NL:RBMNE:2025:5509, Bestuursrecht, 
+334, ECLI:NL:RBMNE:2025:5355, Bestuursrecht, 
+335, ECLI:NL:RBOVE:2025:6356, Bestuursrecht, Socialezekerheidsrecht
+336, ECLI:NL:GHSHE:2025:2783, Bestuursrecht, Belastingrecht
+337, ECLI:NL:GHSHE:2025:2772, Bestuursrecht, Belastingrecht
+338, ECLI:NL:RBDHA:2025:20722, Bestuursrecht, Vreemdelingenrecht
+339, ECLI:NL:GHARL:2024:3483, Bestuursrecht, Belastingrecht
+340, ECLI:NL:RBOVE:2025:6398, Bestuursrecht, Socialezekerheidsrecht
+341, ECLI:NL:RBDHA:2025:20703, Strafrecht, 
+342, ECLI:NL:RBMNE:2025:5510, Bestuursrecht, 
+343, ECLI:NL:RBDHA:2025:20720, Bestuursrecht, Vreemdelingenrecht
+344, ECLI:NL:RBOVE:2025:6364, Bestuursrecht, Socialezekerheidsrecht
+345, ECLI:NL:RBNNE:2025:4578, Civiel recht, 
+346, ECLI:NL:RBMNE:2025:5511, Bestuursrecht, 
+347, ECLI:NL:RBMNE:2025:5346, Bestuursrecht, 
+348, ECLI:NL:RBDHA:2025:20711, Bestuursrecht, Vreemdelingenrecht
+349, ECLI:NL:RBROT:2025:12812, Civiel recht, Verbintenissenrecht
+350, ECLI:NL:RBNHO:2025:12128, Bestuursrecht, Bestuursprocesrecht
+351, ECLI:NL:RBDHA:2025:78, Bestuursrecht, Vreemdelingenrecht
+352, ECLI:NL:RVS:2025:2400, Bestuursrecht, Vreemdelingenrecht
+353, ECLI:NL:RBDHA:2024:7665, Bestuursrecht, Vreemdelingenrecht
+354, ECLI:NL:RVS:2025:2395, Bestuursrecht, Vreemdelingenrecht
+355, ECLI:NL:RBDHA:2024:1610, Bestuursrecht, Vreemdelingenrecht
+356, ECLI:NL:RVS:2025:2394, Bestuursrecht, Vreemdelingenrecht
+357, ECLI:NL:RBMNE:2025:5513, Bestuursrecht, 
+358, ECLI:NL:GHDHA:2025:2278, Civiel recht, Personen- en familierecht
+359, ECLI:NL:RBDHA:2023:8912, Bestuursrecht, Vreemdelingenrecht
+360, ECLI:NL:RVS:2025:2384, Bestuursrecht, Vreemdelingenrecht
+361, ECLI:NL:RBDHA:2025:6665, Bestuursrecht, Vreemdelingenrecht
+362, ECLI:NL:RVS:2025:2376, Bestuursrecht, Vreemdelingenrecht
+363, ECLI:NL:RBDHA:2025:20709, Bestuursrecht, Vreemdelingenrecht
+364, ECLI:NL:RVS:2025:2374, Bestuursrecht, Vreemdelingenrecht
+365, ECLI:NL:RBDHA:2025:12121, Bestuursrecht, Vreemdelingenrecht
+366, ECLI:NL:RBDHA:2025:5097, Bestuursrecht, Vreemdelingenrecht
+367, ECLI:NL:RVS:2025:2373, Bestuursrecht, Vreemdelingenrecht
+368, ECLI:NL:RBDHA:2022:16072, Bestuursrecht, Vreemdelingenrecht
+369, ECLI:NL:RVS:2025:2371, Bestuursrecht, Vreemdelingenrecht
+370, ECLI:NL:RBDHA:2025:20706, Bestuursrecht, Vreemdelingenrecht
+371, ECLI:NL:RBDHA:2025:20211, Bestuursrecht, Socialezekerheidsrecht
+372, ECLI:NL:RBDHA:2025:20704, Bestuursrecht, Vreemdelingenrecht
+373, ECLI:NL:RBDHA:2025:7024, Bestuursrecht, Vreemdelingenrecht
+374, ECLI:NL:RVS:2025:2369, Bestuursrecht, Vreemdelingenrecht
+375, ECLI:NL:RBDHA:2025:20210, Bestuursrecht, Socialezekerheidsrecht
+376, ECLI:NL:RBOBR:2025:7208, Strafrecht, 
+377, ECLI:NL:RBMNE:2025:5514, Bestuursrecht, 
+378, ECLI:NL:RBAMS:2025:8342, Strafrecht, Europees strafrecht
+379, ECLI:NL:RBAMS:2025:8341, Strafrecht, Europees strafrecht
+380, ECLI:NL:RBAMS:2025:8343, Strafrecht, Europees strafrecht
+381, ECLI:NL:GHSHE:2025:1796, Civiel recht, Personen- en familierecht
+382, ECLI:NL:RBDHA:2025:20700, Bestuursrecht, Vreemdelingenrecht
+383, ECLI:NL:RBROT:2025:12811, Civiel recht, Verbintenissenrecht
+384, ECLI:NL:RBLIM:2025:10692, Civiel recht, 
+385, ECLI:NL:CRVB:2025:1542, Bestuursrecht, Socialezekerheidsrecht
+386, ECLI:NL:RBDHA:2024:4401, Bestuursrecht, Vreemdelingenrecht
+387, ECLI:NL:RVS:2025:2358, Bestuursrecht, Vreemdelingenrecht
+388, ECLI:NL:RBDHA:2025:20140, Bestuursrecht, Socialezekerheidsrecht
+389, ECLI:NL:CRVB:2025:1578, Bestuursrecht, Socialezekerheidsrecht
+390, ECLI:NL:OGEAA:2025:324, Civiel recht, 
+391, ECLI:NL:CRVB:2025:1585, Bestuursrecht, Socialezekerheidsrecht
+392, ECLI:NL:RBDHA:2025:20698, Bestuursrecht, Vreemdelingenrecht
+393, ECLI:NL:CRVB:2025:1566, Bestuursrecht, Socialezekerheidsrecht
+394, ECLI:NL:RBDHA:2025:19686, Civiel recht, Personen- en familierecht
+395, ECLI:NL:RBMNE:2025:5502, Civiel recht, Verbintenissenrecht
+396, ECLI:NL:GHARL:2025:6531, Bestuursrecht, Belastingrecht
+397, ECLI:NL:GHDHA:2025:2142, Bestuursrecht, Belastingrecht
+398, ECLI:NL:CRVB:2025:1572, Bestuursrecht, Socialezekerheidsrecht
+399, ECLI:NL:GHARL:2025:6532, Bestuursrecht, Belastingrecht
+400, ECLI:NL:RBNNE:2025:4437, Bestuursrecht, Belastingrecht
+401, ECLI:NL:RBAMS:2025:7194, Bestuursrecht, Belastingrecht
+402, ECLI:NL:RBNNE:2025:3806, Bestuursrecht, Belastingrecht
+403, ECLI:NL:OGHACMB:2024:150, Bestuursrecht, Belastingrecht
+404, ECLI:NL:RVS:2025:5079, Bestuursrecht, 
+405, ECLI:NL:GHAMS:2025:2471, Civiel recht, 
+406, ECLI:NL:RBNHO:2025:10428, Civiel recht, Arbeidsrecht
+407, ECLI:NL:RBDHA:2025:15125, Civiel recht, Arbeidsrecht
+408, ECLI:NL:GHAMS:2025:2023, Civiel recht, 
+409, ECLI:NL:HR:2025:1325, Civiel recht, 
+410, ECLI:NL:RBNHO:2025:8193, Civiel recht, Arbeidsrecht
+411, ECLI:NL:RBAMS:2025:5754, Civiel recht, Arbeidsrecht
+412, ECLI:NL:GHDHA:2025:2145, Bestuursrecht, Belastingrecht
+413, ECLI:NL:RBGEL:2025:6110, Civiel recht, 
+414, ECLI:NL:RBROT:2025:10233, Civiel recht, Arbeidsrecht
+415, ECLI:NL:RBGEL:2025:7054, Civiel recht, Arbeidsrecht
+416, ECLI:NL:GHDHA:2025:1586, Civiel recht, Arbeidsrecht
+417, ECLI:NL:GHAMS:2025:2339, Civiel recht, 
+418, ECLI:NL:GHDHA:2025:1175, Civiel recht, 
+419, ECLI:NL:RVS:2025:2349, Bestuursrecht, Vreemdelingenrecht
+420, ECLI:NL:RBDHA:2025:20696, Bestuursrecht, Vreemdelingenrecht
+421, ECLI:NL:RBDHA:2025:5038, Bestuursrecht, Vreemdelingenrecht
+422, ECLI:NL:RVS:2025:2273, Bestuursrecht, Vreemdelingenrecht
+423, ECLI:NL:OGEAA:2025:323, Civiel recht, 
+424, ECLI:NL:RBDHA:2025:20212, Bestuursrecht, Socialezekerheidsrecht
+425, ECLI:NL:RBDHA:2024:4375, Bestuursrecht, Vreemdelingenrecht
+426, ECLI:NL:RVS:2025:2271, Bestuursrecht, Vreemdelingenrecht
+427, ECLI:NL:RBDHA:2025:20695, Bestuursrecht, Vreemdelingenrecht
+428, ECLI:NL:RBDHA:2024:4265, Bestuursrecht, Vreemdelingenrecht
+429, ECLI:NL:RVS:2025:2270, Bestuursrecht, Vreemdelingenrecht
+430, ECLI:NL:RBZWB:2025:7464, Bestuursrecht, 
+431, ECLI:NL:RBDHA:2025:20249, Civiel recht, Insolventierecht
+432, ECLI:NL:RVS:2025:1722, Bestuursrecht, 
+433, ECLI:NL:RBZWB:2025:7467, Bestuursrecht, 
+434, ECLI:NL:RBDHA:2025:20693, Bestuursrecht, Vreemdelingenrecht
+435, ECLI:NL:RBMNE:2025:5535, Bestuursrecht, 
+436, ECLI:NL:RBZWB:2025:7462, Bestuursrecht, 
+437, ECLI:NL:RBMNE:2025:5496, Civiel recht, 
+438, ECLI:NL:GHAMS:2025:2857, Civiel recht, 
+439, ECLI:NL:RBROT:2025:12917, Civiel recht, Personen- en familierecht
+440, ECLI:NL:RBDHA:2025:20691, Bestuursrecht, Vreemdelingenrecht
+441, ECLI:NL:RBMNE:2025:5319, Bestuursrecht, Bestuursprocesrecht
+442, ECLI:NL:RBROT:2025:12877, Strafrecht, 
+443, ECLI:NL:RBDHA:2025:20689, Bestuursrecht, Vreemdelingenrecht
+444, ECLI:NL:RBMNE:2025:5534, Bestuursrecht, Belastingrecht
+445, ECLI:NL:RBZWB:2025:7480, Bestuursrecht, Omgevingsrecht
+446, ECLI:NL:RBMNE:2025:5789, Strafrecht, Materieel strafrecht
+447, ECLI:NL:RBDHA:2025:20686, Bestuursrecht, Vreemdelingenrecht
+448, ECLI:NL:RBMNE:2025:5533, Bestuursrecht, Belastingrecht
+449, ECLI:NL:RBMNE:2025:5498, Civiel recht, Verbintenissenrecht
+450, ECLI:NL:RBDHA:2025:20218, Civiel recht, Personen- en familierecht
+451, ECLI:NL:RBDHA:2025:20013, Strafrecht, 
+452, ECLI:NL:RBDHA:2025:20203, Civiel recht, Verbintenissenrecht
+453, ECLI:NL:RBDHA:2025:19631, Bestuursrecht, Vreemdelingenrecht
+454, ECLI:NL:RBGEL:2023:7037, Bestuursrecht, Belastingrecht
+455, ECLI:NL:RBDHA:2025:20244, Bestuursrecht, Vreemdelingenrecht
+456, ECLI:NL:RBDHA:2025:20684, Bestuursrecht, Vreemdelingenrecht
+457, ECLI:NL:RBZWB:2025:6951, Civiel recht, Personen- en familierecht
+458, ECLI:NL:RBLIM:2025:10788, Civiel recht, 
+459, ECLI:NL:RBZWB:2025:6949, Civiel recht, Personen- en familierecht
+460, ECLI:NL:RBZWB:2025:6940, Civiel recht, Personen- en familierecht
+461, ECLI:NL:RBZWB:2025:6933, Civiel recht, Personen- en familierecht
+462, ECLI:NL:RBZWB:2025:6929, Civiel recht, Personen- en familierecht
+463, ECLI:NL:RBZWB:2025:6928, Civiel recht, Personen- en familierecht
+464, ECLI:NL:RBMNE:2025:5519, Bestuursrecht, Omgevingsrecht
+465, ECLI:NL:RBZWB:2025:6927, Civiel recht, Personen- en familierecht
+466, ECLI:NL:RBZWB:2025:6926, Civiel recht, Personen- en familierecht
+467, ECLI:NL:RBMNE:2025:5660, Civiel recht, Verbintenissenrecht
+468, ECLI:NL:RBZWB:2025:6925, Civiel recht, Personen- en familierecht
+469, ECLI:NL:RBZWB:2025:6924, Civiel recht, Personen- en familierecht
+470, ECLI:NL:RBZWB:2025:7465, Bestuursrecht, 
+471, ECLI:NL:RBZWB:2025:6919, Civiel recht, Personen- en familierecht
+472, ECLI:NL:GHARL:2025:6828, Strafrecht, Strafprocesrecht
+473, ECLI:NL:RBZWB:2025:7466, Bestuursrecht, 
+474, ECLI:NL:RBDHA:2025:20678, Bestuursrecht, Vreemdelingenrecht
+475, ECLI:NL:RBZWB:2025:6903, Civiel recht, Personen- en familierecht
+476, ECLI:NL:RBZWB:2025:6893, Civiel recht, Personen- en familierecht
+477, ECLI:NL:RBZWB:2025:7468, Bestuursrecht, 
+478, ECLI:NL:RBROT:2025:12937, Strafrecht, 
+479, ECLI:NL:RBZWB:2025:6868, Civiel recht, Personen- en familierecht
+480, ECLI:NL:RBZWB:2025:6846, Civiel recht, Personen- en familierecht
+481, ECLI:NL:RBDHA:2025:20682, Bestuursrecht, Vreemdelingenrecht
+482, ECLI:NL:RBZWB:2025:6844, Civiel recht, Personen- en familierecht
+483, ECLI:NL:RBDHA:2025:20681, Bestuursrecht, Vreemdelingenrecht
+484, ECLI:NL:RBDHA:2025:20680, Bestuursrecht, Vreemdelingenrecht
+485, ECLI:NL:RBDHA:2025:20679, Bestuursrecht, Vreemdelingenrecht
+486, ECLI:NL:RBDHA:2025:20677, Bestuursrecht, Vreemdelingenrecht
+487, ECLI:NL:RBDHA:2025:20668, Bestuursrecht, Vreemdelingenrecht
+488, ECLI:NL:RVS:2025:5349, Bestuursrecht, 
+489, ECLI:NL:RBLIM:2025:10790, Civiel recht, 
+490, ECLI:NL:RBDHA:2025:20642, Bestuursrecht, Vreemdelingenrecht
+491, ECLI:NL:RBMNE:2025:5451, Civiel recht, Verbintenissenrecht
+492, ECLI:NL:RBMNE:2025:5478, Civiel recht, Personen- en familierecht
+493, ECLI:NL:RBMNE:2025:5458, Bestuursrecht, Belastingrecht
+494, ECLI:NL:RBDHA:2025:20675, Bestuursrecht, Vreemdelingenrecht
+495, ECLI:NL:RBDHA:2025:20674, Bestuursrecht, Vreemdelingenrecht
+496, ECLI:NL:RBZWB:2025:7589, Strafrecht, 
+497, ECLI:NL:RBDHA:2025:20673, Bestuursrecht, Vreemdelingenrecht
+498, ECLI:NL:RBROT:2025:12936, Strafrecht, 
+499, ECLI:NL:RBZWB:2025:7590, Strafrecht, 
+500, ECLI:NL:RBDHA:2025:20672, Bestuursrecht, Vreemdelingenrecht
+501, ECLI:NL:RBDHA:2025:20671, Bestuursrecht, Vreemdelingenrecht
+502, ECLI:NL:RBZWB:2025:7553, Strafrecht, 
+503, ECLI:NL:RBMNE:2025:5467, Bestuursrecht, Bestuursprocesrecht
+504, ECLI:NL:RBZWB:2025:7552, Strafrecht, 
+505, ECLI:NL:RBMNE:2025:5468, Bestuursrecht, Bestuursprocesrecht
+506, ECLI:NL:RBDHA:2025:20669, Bestuursrecht, Vreemdelingenrecht
+507, ECLI:NL:RBAMS:2025:8305, Strafrecht, Europees strafrecht
+508, ECLI:NL:RBMNE:2025:5469, Bestuursrecht, Bestuursprocesrecht
+509, ECLI:NL:RBAMS:2025:8306, Strafrecht, Europees strafrecht
+510, ECLI:NL:RBDHA:2025:20666, Bestuursrecht, Vreemdelingenrecht
+511, ECLI:NL:RBMNE:2025:5470, Bestuursrecht, Bestuursprocesrecht
+512, ECLI:NL:RBDHA:2025:20667, Bestuursrecht, Vreemdelingenrecht
+513, ECLI:NL:GHARL:2025:6452, Strafrecht, Strafprocesrecht
+514, ECLI:NL:RBNNE:2025:4575, Bestuursrecht, 
+515, ECLI:NL:GHARL:2025:6451, Strafrecht, Strafprocesrecht
+516, ECLI:NL:RBMNE:2025:5471, Bestuursrecht, Bestuursprocesrecht
+517, ECLI:NL:RBDHA:2025:20226, Bestuursrecht, Vreemdelingenrecht
+518, ECLI:NL:RBMNE:2025:5472, Bestuursrecht, Bestuursprocesrecht
+519, ECLI:NL:RBMNE:2023:7788, Civiel recht, Personen- en familierecht
+520, ECLI:NL:RBMNE:2025:5473, Bestuursrecht, Bestuursprocesrecht
+521, ECLI:NL:RBDHA:2025:20460, Civiel recht, Verbintenissenrecht
+522, ECLI:NL:RBDHA:2025:20665, Bestuursrecht, Vreemdelingenrecht
+523, ECLI:NL:RBDHA:2025:20664, Bestuursrecht, Vreemdelingenrecht
+524, ECLI:NL:RBMNE:2022:6640, Civiel recht, Personen- en familierecht
+525, ECLI:NL:RBDHA:2025:20662, Bestuursrecht, Vreemdelingenrecht
+526, ECLI:NL:RBONE:2013:BZ6422, Civiel recht, 
+527, ECLI:NL:RBONE:2013:BZ5803, Civiel recht, 
+528, ECLI:NL:RBONE:2013:BZ5108, Civiel recht, 
+529, ECLI:NL:RBONE:2013:BZ5508, Civiel recht, 
+530, ECLI:NL:RBONE:2013:BZ3457, Civiel recht, 
+531, ECLI:NL:RBONE:2013:BZ3804, Civiel recht, 
+532, ECLI:NL:RBONE:2013:BZ3250, Civiel recht, 
+533, ECLI:NL:RBONE:2013:BZ2921, Civiel recht, 
+534, ECLI:NL:RBONE:2013:BZ2594, Civiel recht, 
+535, ECLI:NL:RBONE:2013:BZ2738, Civiel recht, 
+536, ECLI:NL:RBONE:2013:BZ1980, Civiel recht, 
+537, ECLI:NL:RBONE:2013:BZ1987, Civiel recht, 
+538, ECLI:NL:RBONE:2013:BZ0907, Civiel recht, 
+539, ECLI:NL:RBONE:2013:BZ1867, Civiel recht, 
+540, ECLI:NL:RBONE:2013:BZ1789, Civiel recht, 
+541, ECLI:NL:RBONE:2013:BZ1798, Civiel recht, 
+542, ECLI:NL:RBONE:2013:BZ1359, Civiel recht, 
+543, ECLI:NL:RBONE:2013:BZ2859, Civiel recht, 
+544, ECLI:NL:RBONE:2013:BZ1535, Civiel recht, 
+545, ECLI:NL:RBONE:2013:BZ1362, Civiel recht, 
+546, ECLI:NL:RBONE:2013:BZ0652, Civiel recht, 
+547, ECLI:NL:RBONE:2013:BZ0741, Civiel recht, 
+548, ECLI:NL:RBONE:2013:BZ0940, Civiel recht, 
+549, ECLI:NL:RBONE:2013:BZ0922, Civiel recht, 
+550, ECLI:NL:RBONE:2013:BZ0668, Civiel recht, 
+551, ECLI:NL:RBONE:2013:BZ0419, Civiel recht, 
+552, ECLI:NL:RBONE:2013:BY9847, Civiel recht, 
+553, ECLI:NL:RBONE:2013:BY9269, Civiel recht, 
+554, ECLI:NL:RBONE:2013:BY9640, Civiel recht, 
+555, ECLI:NL:RBONE:2013:BY8804, Civiel recht, 
+556, ECLI:NL:RBONE:2013:BY8852, Civiel recht, 
+557, ECLI:NL:RBONE:2013:BY8037, Civiel recht, 
+558, ECLI:NL:RBDHA:2025:20661, Bestuursrecht, Vreemdelingenrecht
+559, ECLI:NL:RBROT:2025:12935, Strafrecht, 
+560, ECLI:NL:RBDHA:2025:20660, Bestuursrecht, Vreemdelingenrecht
+561, ECLI:NL:RBDHA:2025:20659, Bestuursrecht, Vreemdelingenrecht
+562, ECLI:NL:RBDHA:2025:20658, Bestuursrecht, Vreemdelingenrecht
+563, ECLI:NL:RBNHO:2025:12488, Civiel recht, Verbintenissenrecht
+564, ECLI:NL:RBDHA:2025:20657, Bestuursrecht, Vreemdelingenrecht
+565, ECLI:NL:RBDHA:2025:20656, Bestuursrecht, Vreemdelingenrecht
+566, ECLI:NL:RBDHA:2025:20655, Bestuursrecht, Vreemdelingenrecht
+567, ECLI:NL:RBDHA:2025:20654, Bestuursrecht, Vreemdelingenrecht
+568, ECLI:NL:RBDHA:2025:20653, Bestuursrecht, Vreemdelingenrecht
+569, ECLI:NL:RBMNE:2025:5271, Civiel recht, Personen- en familierecht
+570, ECLI:NL:RBROT:2025:10970, Civiel recht, Verbintenissenrecht
+571, ECLI:NL:RBDHA:2025:20556, Bestuursrecht, Vreemdelingenrecht
+572, ECLI:NL:RBGEL:2025:8769, Civiel recht, Personen- en familierecht
+573, ECLI:NL:GHDHA:2025:2169, Civiel recht, Personen- en familierecht
+574, ECLI:NL:RBMNE:2025:5759, Bestuursrecht, 
+575, ECLI:NL:RBAMS:2025:6692, Civiel recht, Verbintenissenrecht
+576, ECLI:NL:RBLIM:2025:10789, Civiel recht, 
+577, ECLI:NL:RBDHA:2025:20022, Civiel recht, 
+578, ECLI:NL:RBLIM:2025:10787, Civiel recht, 
+579, ECLI:NL:RBLIM:2025:10786, Civiel recht, 
+580, ECLI:NL:RBLIM:2025:10784, Civiel recht, 
+581, ECLI:NL:OGEAA:2025:321, Civiel recht, 
+582, ECLI:NL:RBAMS:2025:6242, Bestuursrecht, Belastingrecht
+583, ECLI:NL:RBAMS:2025:6241, Bestuursrecht, Belastingrecht
+584, ECLI:NL:RBAMS:2025:6239, Bestuursrecht, Belastingrecht
+585, ECLI:NL:RBAMS:2025:6237, Bestuursrecht, Belastingrecht
+586, ECLI:NL:RBAMS:2025:6236, Bestuursrecht, Belastingrecht
+587, ECLI:NL:RBAMS:2025:6234, Bestuursrecht, 
+588, ECLI:NL:RBAMS:2025:6229, Bestuursrecht, 
+589, ECLI:NL:RBMNE:2025:5657, Civiel recht, Intellectueel-eigendomsrecht
+590, ECLI:NL:RBAMS:2025:6182, Bestuursrecht, Socialezekerheidsrecht
+591, ECLI:NL:OGHACMB:2025:265, Bestuursrecht, Vreemdelingenrecht
+592, ECLI:NL:RBAMS:2025:6143, Bestuursrecht, 
+593, ECLI:NL:OGHACMB:2025:264, Bestuursrecht, 
+594, ECLI:NL:RBDHA:2025:19472, Bestuursrecht, Vreemdelingenrecht
+595, ECLI:NL:RBAMS:2018:10181, Civiel recht, 
+596, ECLI:NL:RBNHO:2025:12393, Civiel recht, Arbeidsrecht
+597, ECLI:NL:RBNHO:2025:12360, Civiel recht, Arbeidsrecht
+598, ECLI:NL:RBNHO:2025:12419, Civiel recht, Verbintenissenrecht
+599, ECLI:NL:RBDHA:2025:20094, Bestuursrecht, Vreemdelingenrecht
+600, ECLI:NL:RBGEL:2025:9144, Bestuursrecht, Omgevingsrecht
+601, ECLI:NL:RBNHO:2025:12301, Civiel recht, Verbintenissenrecht
+602, ECLI:NL:RBGEL:2025:9141, Bestuursrecht, Omgevingsrecht
+603, ECLI:NL:RBROT:2025:12880, Civiel recht, Personen- en familierecht
+604, ECLI:NL:GHDHA:2025:2282, Strafrecht, 
+605, ECLI:NL:OGHACMB:2025:263, Bestuursrecht, Vreemdelingenrecht
+606, ECLI:NL:GHDHA:2025:2288, Strafrecht, 
+607, ECLI:NL:RBDHA:2024:18006, Bestuursrecht, Belastingrecht
+608, ECLI:NL:GHSHE:2025:2779, Bestuursrecht, Belastingrecht
+609, ECLI:NL:RBGEL:2025:9132, Bestuursrecht, Belastingrecht
+610, ECLI:NL:RBAMS:2025:7178, Bestuursrecht, Belastingrecht
+611, ECLI:NL:RBGEL:2025:9142, Bestuursrecht, Belastingrecht
+612, ECLI:NL:GHSHE:2025:2782, Bestuursrecht, Belastingrecht
+613, ECLI:NL:RBZWB:2025:7242, Bestuursrecht, Belastingrecht
+614, ECLI:NL:RBAMS:2025:7585, Bestuursrecht, Belastingrecht
+615, ECLI:NL:GHSHE:2025:2778, Bestuursrecht, Belastingrecht
+616, ECLI:NL:GHSHE:2025:2781, Bestuursrecht, Belastingrecht
+617, ECLI:NL:GHSHE:2025:2780, Bestuursrecht, Belastingrecht
+618, ECLI:NL:RBZWB:2025:7252, Bestuursrecht, Belastingrecht
+619, ECLI:NL:OGHACMB:2025:262, Bestuursrecht, 
+620, ECLI:NL:OGHACMB:2025:261, Bestuursrecht, 
+621, ECLI:NL:RBMNE:2025:5665, Civiel recht, Personen- en familierecht
+622, ECLI:NL:OGHACMB:2025:260, Bestuursrecht, Vreemdelingenrecht
+623, ECLI:NL:RBNNE:2025:4533, Strafrecht, Materieel strafrecht
+624, ECLI:NL:GHDHA:2025:2144, Bestuursrecht, Belastingrecht
+625, ECLI:NL:RBMNE:2025:5726, Strafrecht, 
+626, ECLI:NL:GHDHA:2025:2303, Strafrecht, 
+627, ECLI:NL:RBROT:2025:12873, Civiel recht, Verbintenissenrecht
+628, ECLI:NL:OGHACMB:2025:259, Bestuursrecht, Vreemdelingenrecht
+629, ECLI:NL:RBNHO:2024:10912, Bestuursrecht, Belastingrecht
+630, ECLI:NL:GHARL:2025:6040, Strafrecht, Strafprocesrecht
+631, ECLI:NL:GHARL:2025:6039, Strafrecht, Strafprocesrecht
+632, ECLI:NL:GHARL:2025:6042, Strafrecht, Strafprocesrecht
+633, ECLI:NL:RBNNE:2025:4566, Strafrecht, Materieel strafrecht
+634, ECLI:NL:RBROT:2025:12871, Civiel recht, Personen- en familierecht
+635, ECLI:NL:RBNNE:2025:4574, Strafrecht, Materieel strafrecht
+636, ECLI:NL:OGHACMB:2025:258, Bestuursrecht, Omgevingsrecht
+637, ECLI:NL:GHARL:2025:6884, Strafrecht, Strafprocesrecht
+638, ECLI:NL:RVS:2025:5096, Bestuursrecht, 
+639, ECLI:NL:GHDHA:2025:2302, Strafrecht, 
+640, ECLI:NL:RBNHO:2025:6574, Civiel recht, Verbintenissenrecht
+641, ECLI:NL:RBDHA:2025:20626, Bestuursrecht, Vreemdelingenrecht
+642, ECLI:NL:RBDHA:2025:20629, Bestuursrecht, Vreemdelingenrecht
+643, ECLI:NL:RBDHA:2025:20628, Bestuursrecht, Vreemdelingenrecht
+644, ECLI:NL:GHARL:2025:6166, Civiel recht, 
+645, ECLI:NL:RBDHA:2025:20627, Bestuursrecht, Vreemdelingenrecht
+646, ECLI:NL:RBDHA:2025:20625, Bestuursrecht, Vreemdelingenrecht
+647, ECLI:NL:GHARL:2025:6491, Civiel recht, Personen- en familierecht
+648, ECLI:NL:GHSHE:2025:3033, Strafrecht, 
+649, ECLI:NL:RBOBR:2023:605, Strafrecht, 
+650, ECLI:NL:RBOVE:2025:4716, Civiel recht, 
+651, ECLI:NL:GHARL:2025:6566, Civiel recht, Personen- en familierecht
+652, ECLI:NL:GHARL:2025:6492, Civiel recht, Personen- en familierecht
+653, ECLI:NL:RBGEL:2025:7219, Civiel recht, 
+654, ECLI:NL:RBDHA:2025:20624, Bestuursrecht, Vreemdelingenrecht
+655, ECLI:NL:RBDHA:2025:20623, Bestuursrecht, Vreemdelingenrecht
+656, ECLI:NL:RBDHA:2025:20622, Bestuursrecht, Vreemdelingenrecht
+657, ECLI:NL:RBDHA:2025:20619, Bestuursrecht, Vreemdelingenrecht
+658, ECLI:NL:RBAMS:2025:7733, Strafrecht, Europees strafrecht
+659, ECLI:NL:GHARL:2025:6885, Strafrecht, 
+660, ECLI:NL:RBDHA:2025:20618, Bestuursrecht, Vreemdelingenrecht
+661, ECLI:NL:RBDHA:2025:20617, Bestuursrecht, Vreemdelingenrecht
+662, ECLI:NL:RBDHA:2025:20616, Bestuursrecht, Vreemdelingenrecht
+663, ECLI:NL:RBDHA:2025:20615, Bestuursrecht, Vreemdelingenrecht
+664, ECLI:NL:RBDHA:2025:20614, Bestuursrecht, Vreemdelingenrecht
+665, ECLI:NL:RBDHA:2025:20613, Bestuursrecht, Vreemdelingenrecht
+666, ECLI:NL:RBDHA:2025:20609, Bestuursrecht, Vreemdelingenrecht
+667, ECLI:NL:RBDHA:2025:20531, Strafrecht, 
+668, ECLI:NL:OGEABES:2015:7, Civiel recht, 
+669, ECLI:NL:RBDHA:2025:20608, Bestuursrecht, Vreemdelingenrecht
+670, ECLI:NL:RBDHA:2025:20607, Bestuursrecht, Vreemdelingenrecht
+671, ECLI:NL:RBDHA:2025:20606, Bestuursrecht, Vreemdelingenrecht
+672, ECLI:NL:RBDHA:2025:20605, Bestuursrecht, Vreemdelingenrecht
+673, ECLI:NL:RBDHA:2025:20604, Bestuursrecht, Vreemdelingenrecht
+674, ECLI:NL:RBDHA:2025:20603, Bestuursrecht, Vreemdelingenrecht
+675, ECLI:NL:RBDHA:2025:20600, Bestuursrecht, Vreemdelingenrecht
+676, ECLI:NL:RBDHA:2025:20589, Bestuursrecht, Vreemdelingenrecht
+677, ECLI:NL:RBROT:2025:12916, Strafrecht, 
+678, ECLI:NL:RBDHA:2025:20588, Bestuursrecht, Vreemdelingenrecht
+679, ECLI:NL:RBDHA:2025:20587, Bestuursrecht, Vreemdelingenrecht
+680, ECLI:NL:RBDHA:2025:20586, Bestuursrecht, Vreemdelingenrecht
+681, ECLI:NL:RBDHA:2025:20585, Bestuursrecht, Vreemdelingenrecht
+682, ECLI:NL:RBDHA:2025:20583, Bestuursrecht, Vreemdelingenrecht
+683, ECLI:NL:RBDHA:2025:20581, Bestuursrecht, Vreemdelingenrecht
+684, ECLI:NL:RBDHA:2025:20580, Bestuursrecht, Vreemdelingenrecht
+685, ECLI:NL:RBDHA:2025:20579, Bestuursrecht, Vreemdelingenrecht
+686, ECLI:NL:RBDHA:2025:20577, Bestuursrecht, Vreemdelingenrecht
+687, ECLI:NL:RBLIM:2025:10882, Strafrecht, 
+688, ECLI:NL:RBLIM:2025:10872, Strafrecht, 
+689, ECLI:NL:RBDHA:2025:20575, Bestuursrecht, Vreemdelingenrecht
+690, ECLI:NL:GHDHA:2025:2301, Strafrecht, 
+691, ECLI:NL:RBDHA:2025:20574, Bestuursrecht, Vreemdelingenrecht
+692, ECLI:NL:RBDHA:2025:20573, Bestuursrecht, Vreemdelingenrecht
+693, ECLI:NL:RBDHA:2025:20570, Bestuursrecht, Vreemdelingenrecht
+694, ECLI:NL:RBDHA:2025:20569, Bestuursrecht, Vreemdelingenrecht
+695, ECLI:NL:CRVB:2025:1548, Bestuursrecht, Socialezekerheidsrecht
+696, ECLI:NL:RBROT:2025:12750, Bestuursrecht, Bestuursprocesrecht
+697, ECLI:NL:RBOVE:2025:5789, Civiel recht, 
+698, ECLI:NL:CRVB:2025:1553, Bestuursrecht, Socialezekerheidsrecht
+699, ECLI:NL:GHDHA:2025:2300, Strafrecht, 
+700, ECLI:NL:CRVB:2025:1555, Bestuursrecht, Socialezekerheidsrecht
+701, ECLI:NL:RBDHA:2025:20564, Bestuursrecht, Vreemdelingenrecht
+702, ECLI:NL:CRVB:2025:1556, Bestuursrecht, Socialezekerheidsrecht
+703, ECLI:NL:RBDHA:2025:20563, Bestuursrecht, Vreemdelingenrecht
+704, ECLI:NL:CRVB:2025:1565, Bestuursrecht, Socialezekerheidsrecht
+705, ECLI:NL:RBDHA:2025:20562, Bestuursrecht, Vreemdelingenrecht
+706, ECLI:NL:RBDHA:2025:20560, Bestuursrecht, Vreemdelingenrecht
+707, ECLI:NL:CRVB:2025:1535, Bestuursrecht, Socialezekerheidsrecht
+708, ECLI:NL:RBDHA:2025:20559, Bestuursrecht, Vreemdelingenrecht
+709, ECLI:NL:RBDHA:2025:20558, Bestuursrecht, Vreemdelingenrecht
+710, ECLI:NL:GHARL:2025:6495, Civiel recht, Personen- en familierecht
+711, ECLI:NL:CRVB:2025:1536, Bestuursrecht, Socialezekerheidsrecht
+712, ECLI:NL:RBDHA:2025:20557, Bestuursrecht, Vreemdelingenrecht
+713, ECLI:NL:CRVB:2025:1537, Bestuursrecht, Socialezekerheidsrecht
+714, ECLI:NL:RBDHA:2025:20554, Bestuursrecht, Vreemdelingenrecht
+715, ECLI:NL:CRVB:2025:1546, Bestuursrecht, Socialezekerheidsrecht
+716, ECLI:NL:CRVB:2025:1567, Bestuursrecht, Socialezekerheidsrecht
+717, ECLI:NL:CRVB:2025:1568, Bestuursrecht, Socialezekerheidsrecht
+718, ECLI:NL:RBROT:2025:12872, Civiel recht, Personen- en familierecht
+719, ECLI:NL:RBDHA:2025:20553, Bestuursrecht, Vreemdelingenrecht
+720, ECLI:NL:RBDHA:2025:20552, Bestuursrecht, Vreemdelingenrecht
+721, ECLI:NL:CRVB:2025:1573, Bestuursrecht, Socialezekerheidsrecht
+722, ECLI:NL:RBDHA:2025:20551, Bestuursrecht, Vreemdelingenrecht
+723, ECLI:NL:RBGEL:2025:9102, Civiel recht, 
+724, ECLI:NL:RBDHA:2025:20550, Bestuursrecht, Vreemdelingenrecht
+725, ECLI:NL:RBDHA:2025:20549, Bestuursrecht, Vreemdelingenrecht
+726, ECLI:NL:RBDHA:2025:20547, Bestuursrecht, Vreemdelingenrecht
+727, ECLI:NL:RBDHA:2025:19514, Bestuursrecht, Belastingrecht
+728, ECLI:NL:RBDHA:2025:20546, Bestuursrecht, Vreemdelingenrecht
+729, ECLI:NL:RBDHA:2025:20539, Bestuursrecht, Vreemdelingenrecht
+730, ECLI:NL:RBAMS:2025:8213, Strafrecht, 
+731, ECLI:NL:RBROT:2025:12890, Strafrecht, 
+732, ECLI:NL:RBROT:2025:12861, Civiel recht, 
+733, ECLI:NL:CRVB:2025:1569, Bestuursrecht, Socialezekerheidsrecht
+734, ECLI:NL:RBDHA:2025:20530, Bestuursrecht, Vreemdelingenrecht
+735, ECLI:NL:RBMNE:2025:5756, Bestuursrecht, 
+736, ECLI:NL:GHDHA:2025:2299, Strafrecht, 
+737, ECLI:NL:RBLIM:2025:10687, Civiel recht, Arbeidsrecht
+738, ECLI:NL:RBMNE:2025:2026, Civiel recht, Personen- en familierecht
+739, ECLI:NL:CRVB:2025:1581, Bestuursrecht, Socialezekerheidsrecht
+740, ECLI:NL:CRVB:2025:1557, Bestuursrecht, Socialezekerheidsrecht
+741, ECLI:NL:CRVB:2025:1541, Bestuursrecht, Socialezekerheidsrecht
+742, ECLI:NL:CRVB:2025:1576, Bestuursrecht, Socialezekerheidsrecht
+743, ECLI:NL:RBLIM:2025:10665, Civiel recht, Personen- en familierecht
+744, ECLI:NL:OGHACMB:2025:235, Civiel recht, 
+745, ECLI:NL:GHSHE:2025:1844, Civiel recht, Verbintenissenrecht
+746, ECLI:NL:GHSHE:2025:2685, Civiel recht, 
+747, ECLI:NL:RBROT:2025:11454, Civiel recht, 
+748, ECLI:NL:RBROT:2025:11476, Civiel recht, 
+749, ECLI:NL:RBDHA:2025:17980, Civiel recht, 
+750, ECLI:NL:OGEAA:2025:275, Civiel recht, 
+751, ECLI:NL:RBMNE:2025:5197, Civiel recht, 
+752, ECLI:NL:RBZWB:2025:6324, Civiel recht, 
+753, ECLI:NL:OGHACMB:2025:241, Civiel recht, 
+754, ECLI:NL:RBOBR:2025:7174, Strafrecht, 
+755, ECLI:NL:RBROT:2025:12860, Civiel recht, Burgerlijk procesrecht
+756, ECLI:NL:RBLIM:2025:10890, Civiel recht, Insolventierecht
+757, ECLI:NL:RBDHA:2025:20518, Strafrecht, 
+758, ECLI:NL:RBDHA:2025:20217, Civiel recht, Personen- en familierecht
+759, ECLI:NL:RBAMS:2025:8322, Strafrecht, 
+760, ECLI:NL:CRVB:2025:1538, Bestuursrecht, Ambtenarenrecht
+761, ECLI:NL:CRVB:2025:1528, Bestuursrecht, Ambtenarenrecht
+762, ECLI:NL:RBAMS:2025:8223, Civiel recht, 
+763, ECLI:NL:RBDHA:2025:19225, Bestuursrecht, Belastingrecht
+764, ECLI:NL:RBNHO:2025:10749, Bestuursrecht, Belastingrecht
+765, ECLI:NL:GHSHE:2025:2369, Bestuursrecht, Belastingrecht
+766, ECLI:NL:RBLIM:2025:10627, Civiel recht, 
+767, ECLI:NL:RBOBR:2025:7035, Strafrecht, 
+768, ECLI:NL:RBDHA:2025:20279, Bestuursrecht, Vreemdelingenrecht
+769, ECLI:NL:RBDHA:2025:20278, Bestuursrecht, Vreemdelingenrecht
+770, ECLI:NL:HR:1992:AC2505, Strafrecht, 
+771, ECLI:NL:RBDHA:2025:20277, Bestuursrecht, Vreemdelingenrecht
+772, ECLI:NL:RBDHA:2025:20505, Civiel recht, Personen- en familierecht
+773, ECLI:NL:RVS:2025:5037, Bestuursrecht, Omgevingsrecht
+774, ECLI:NL:RBDHA:2025:20276, Bestuursrecht, Vreemdelingenrecht
+775, ECLI:NL:GHDHA:2025:2194, Strafrecht, 
+776, ECLI:NL:RBNHO:2025:5472, Civiel recht, Verbintenissenrecht
+777, ECLI:NL:RBOVE:2025:6380, Civiel recht, Personen- en familierecht
+778, ECLI:NL:RBDHA:2025:20288, Bestuursrecht, Vreemdelingenrecht
+779, ECLI:NL:RBAMS:2025:8346, Strafrecht, Internationaal strafrecht
+780, ECLI:NL:GHAMS:2025:2992, Civiel recht, 
+781, ECLI:NL:RBOBR:2025:7195, Civiel recht, Personen- en familierecht
+782, ECLI:NL:RBOBR:2025:7200, Civiel recht, 
+783, ECLI:NL:RBOBR:2025:7202, Civiel recht, 
+784, ECLI:NL:RBOBR:2025:7203, Civiel recht, Personen- en familierecht
+785, ECLI:NL:GHDHA:2025:2297, Strafrecht, 
+786, ECLI:NL:RBDHA:2025:19986, Bestuursrecht, Vreemdelingenrecht
+787, ECLI:NL:RBOBR:2025:7201, Civiel recht, 
+788, ECLI:NL:RBOBR:2025:7199, Civiel recht, 
+789, ECLI:NL:RBOBR:2025:7197, Civiel recht, Personen- en familierecht
+790, ECLI:NL:RBOBR:2025:7198, Civiel recht, 
+791, ECLI:NL:RBOBR:2025:7204, Strafrecht, 
+792, ECLI:NL:RBDHA:2025:19926, Bestuursrecht, Vreemdelingenrecht
+793, ECLI:NL:RBOBR:2025:7205, Bestuursrecht, 
+794, ECLI:NL:GHARL:2025:5499, Civiel recht, 
+795, ECLI:NL:RBOBR:2025:7206, Civiel recht, 
+796, ECLI:NL:GHSHE:2025:1845, Civiel recht, Verbintenissenrecht
+797, ECLI:NL:RBZWB:2025:6635, Civiel recht, 
+798, ECLI:NL:OGEABES:2025:30, Civiel recht, 
+799, ECLI:NL:RBGEL:2025:6584, Civiel recht, 
+800, ECLI:NL:RBZWB:2025:6579, Civiel recht, 
+801, ECLI:NL:RBLIM:2025:10157, Civiel recht, 
+802, ECLI:NL:GHSHE:2025:2002, Civiel recht, 
+803, ECLI:NL:RBROT:2025:11178, Civiel recht, Verbintenissenrecht
+804, ECLI:NL:RBROT:2025:11383, Civiel recht, 
+805, ECLI:NL:RBOVE:2025:6001, Civiel recht, 
+806, ECLI:NL:RBNHO:2025:10626, Civiel recht, Arbeidsrecht
+807, ECLI:NL:OGEAC:2025:203, Civiel recht, 
+808, ECLI:NL:GHAMS:2025:2684, Civiel recht, Personen- en familierecht
+809, ECLI:NL:GHDHA:2025:2052, Civiel recht, Personen- en familierecht
+810, ECLI:NL:GHAMS:2025:2633, Civiel recht, 
+811, ECLI:NL:RBROT:2025:11869, Civiel recht, 
+812, ECLI:NL:RBAMS:2025:8347, Strafrecht, Internationaal strafrecht
+813, ECLI:NL:RBAMS:2025:8345, Strafrecht, Internationaal strafrecht
+814, ECLI:NL:GHDHA:2025:2165, Civiel recht, Arbeidsrecht
+815, ECLI:NL:RBAMS:2025:7586, Bestuursrecht, Bestuursprocesrecht
+816, ECLI:NL:GHARL:2025:6384, Civiel recht, 
+817, ECLI:NL:RBNHO:2025:12664, Civiel recht, Personen- en familierecht
+818, ECLI:NL:RBMNE:2023:7789, Civiel recht, 
+819, ECLI:NL:RBMNE:2022:6641, Civiel recht, Verbintenissenrecht
+820, ECLI:NL:RBAMS:2025:7584, Bestuursrecht, Belastingrecht
+821, ECLI:NL:RBAMS:2025:8211, Bestuursrecht, Bestuursprocesrecht
+822, ECLI:NL:RBZWB:2025:7429, Bestuursrecht, Belastingrecht
+823, ECLI:NL:RBZWB:2025:7401, Bestuursrecht, Belastingrecht
+824, ECLI:NL:GHARL:2025:5980, Civiel recht, Insolventierecht
+825, ECLI:NL:RBDHA:2025:20509, Civiel recht, Verbintenissenrecht
+826, ECLI:NL:GHARL:2025:5979, Civiel recht, Personen- en familierecht
+827, ECLI:NL:GHARL:2025:5535, Civiel recht, Insolventierecht
+828, ECLI:NL:GHARL:2025:4497, Civiel recht, Insolventierecht
+829, ECLI:NL:GHARL:2025:4888, Civiel recht, 
+830, ECLI:NL:RBGEL:2025:8859, Civiel recht, Verbintenissenrecht
+831, ECLI:NL:RBAMS:2025:7544, Bestuursrecht, Bestuursstrafrecht
+832, ECLI:NL:RBAMS:2025:7543, Bestuursrecht, Bestuursprocesrecht
+833, ECLI:NL:RBNNE:2025:4565, Civiel recht, 
+834, ECLI:NL:RBZWB:2025:7400, Bestuursrecht, Belastingrecht
+835, ECLI:NL:RBNNE:2025:4548, Bestuursrecht, Bestuursstrafrecht
+836, ECLI:NL:RBNNE:2025:4546, Bestuursrecht, Bestuursstrafrecht
+837, ECLI:NL:RBNNE:2025:4547, Bestuursrecht, Bestuursstrafrecht
+838, ECLI:NL:RBZWB:2025:7402, Bestuursrecht, Belastingrecht
+839, ECLI:NL:GHDHA:2025:2198, Strafrecht, 
+840, ECLI:NL:RBZWB:2025:7403, Bestuursrecht, Belastingrecht
+841, ECLI:NL:RBAMS:2025:7381, Bestuursrecht, Omgevingsrecht
+842, ECLI:NL:RBZWB:2025:7450, Bestuursrecht, Bestuursprocesrecht
+843, ECLI:NL:RBZWB:2025:7399, Bestuursrecht, Belastingrecht
+844, ECLI:NL:GHDHA:2025:2143, Bestuursrecht, Belastingrecht
+845, ECLI:NL:RBAMS:2025:7374, Bestuursrecht, Bestuursprocesrecht
+846, ECLI:NL:RBZWB:2025:7255, Bestuursrecht, Belastingrecht
+847, ECLI:NL:RBNHO:2025:12655, Civiel recht, Personen- en familierecht
+848, ECLI:NL:HR:2025:1646, Strafrecht, 
+849, ECLI:NL:RBNHO:2025:12287, Civiel recht, Arbeidsrecht
+850, ECLI:NL:GHSHE:2025:2061, Civiel recht, Verbintenissenrecht
+851, ECLI:NL:RBZWB:2025:7256, Bestuursrecht, Belastingrecht
+852, ECLI:NL:GHDHA:2025:2296, Strafrecht, 
+853, ECLI:NL:RBNHO:2025:6516, Civiel recht, Verbintenissenrecht
+854, ECLI:NL:RBZWB:2025:7257, Bestuursrecht, Belastingrecht
+855, ECLI:NL:RBZWB:2025:7260, Bestuursrecht, Belastingrecht
+856, ECLI:NL:RBZWB:2025:7258, Bestuursrecht, Belastingrecht
+857, ECLI:NL:RBDHA:2025:20524, Bestuursrecht, Vreemdelingenrecht
+858, ECLI:NL:CRVB:2025:1518, Bestuursrecht, Socialezekerheidsrecht
+859, ECLI:NL:GHAMS:2025:2991, Strafrecht, 
+860, ECLI:NL:RBAMS:2022:3599, Strafrecht, 
+861, ECLI:NL:RBROT:2025:12898, Civiel recht, 
+862, ECLI:NL:RVS:2025:5265, Bestuursrecht, Vreemdelingenrecht
+863, ECLI:NL:RVS:2025:5296, Bestuursrecht, 
+864, ECLI:NL:RVS:2025:5275, Bestuursrecht, Vreemdelingenrecht
+865, ECLI:NL:RVS:2025:5174, Bestuursrecht, Vreemdelingenrecht
+866, ECLI:NL:RVS:2025:5339, Bestuursrecht, Omgevingsrecht
+867, ECLI:NL:RVS:2025:5346, Bestuursrecht, 
+868, ECLI:NL:RVS:2025:5264, Bestuursrecht, Vreemdelingenrecht
+869, ECLI:NL:RVS:2025:5343, Bestuursrecht, 
+870, ECLI:NL:RVS:2025:5325, Bestuursrecht, 
+871, ECLI:NL:RVS:2025:5342, Bestuursrecht, 
+872, ECLI:NL:RVS:2025:5307, Bestuursrecht, 
+873, ECLI:NL:RVS:2025:5327, Bestuursrecht, 
+874, ECLI:NL:RVS:2025:5054, Bestuursrecht, 
+875, ECLI:NL:RVS:2025:5348, Bestuursrecht, 
+876, ECLI:NL:RVS:2025:5289, Bestuursrecht, 
+877, ECLI:NL:RVS:2025:5170, Bestuursrecht, Vreemdelingenrecht
+878, ECLI:NL:RVS:2025:5172, Bestuursrecht, Vreemdelingenrecht
+879, ECLI:NL:RVS:2025:5225, Bestuursrecht, Vreemdelingenrecht
+880, ECLI:NL:RVS:2025:5163, Bestuursrecht, Vreemdelingenrecht
+881, ECLI:NL:RVS:2025:5261, Bestuursrecht, Vreemdelingenrecht
+882, ECLI:NL:RVS:2025:5260, Bestuursrecht, Vreemdelingenrecht
+883, ECLI:NL:RVS:2025:5248, Bestuursrecht, Vreemdelingenrecht
+884, ECLI:NL:RVS:2025:5279, Bestuursrecht, 
+885, ECLI:NL:RVS:2025:5240, Bestuursrecht, Vreemdelingenrecht
+886, ECLI:NL:RVS:2025:5167, Bestuursrecht, Vreemdelingenrecht
+887, ECLI:NL:RVS:2025:5150, Bestuursrecht, Vreemdelingenrecht
+888, ECLI:NL:RVS:2025:5168, Bestuursrecht, Vreemdelingenrecht
+889, ECLI:NL:RVS:2025:5316, Bestuursrecht, 
+890, ECLI:NL:RVS:2025:5218, Bestuursrecht, Vreemdelingenrecht
+891, ECLI:NL:RVS:2025:5226, Bestuursrecht, Vreemdelingenrecht
+892, ECLI:NL:RVS:2025:5326, Bestuursrecht, 
+893, ECLI:NL:RVS:2025:5238, Bestuursrecht, 
+894, ECLI:NL:RVS:2025:5220, Bestuursrecht, Vreemdelingenrecht
+895, ECLI:NL:RVS:2025:5236, Bestuursrecht, 
+896, ECLI:NL:RVS:2025:5237, Bestuursrecht, 
+897, ECLI:NL:RVS:2025:5311, Bestuursrecht, 
+898, ECLI:NL:RVS:2025:5131, Bestuursrecht, Vreemdelingenrecht
+899, ECLI:NL:RVS:2025:5171, Bestuursrecht, Vreemdelingenrecht
+900, ECLI:NL:RVS:2025:5149, Bestuursrecht, Vreemdelingenrecht
+901, ECLI:NL:RVS:2025:5156, Bestuursrecht, Vreemdelingenrecht
+902, ECLI:NL:RVS:2025:5175, Bestuursrecht, 
+903, ECLI:NL:RVS:2025:5144, Bestuursrecht, Vreemdelingenrecht
+904, ECLI:NL:RVS:2025:5320, Bestuursrecht, Vreemdelingenrecht
+905, ECLI:NL:RVS:2025:5308, Bestuursrecht, Vreemdelingenrecht
+906, ECLI:NL:RVS:2025:5224, Bestuursrecht, Vreemdelingenrecht
+907, ECLI:NL:RVS:2025:5263, Bestuursrecht, Vreemdelingenrecht
+908, ECLI:NL:RVS:2025:5324, Bestuursrecht, 
+909, ECLI:NL:RVS:2025:5353, Bestuursrecht, 
+910, ECLI:NL:RVS:2025:5162, Bestuursrecht, 
+911, ECLI:NL:RVS:2025:5318, Bestuursrecht, 
+912, ECLI:NL:RVS:2025:5258, Bestuursrecht, Vreemdelingenrecht
+913, ECLI:NL:RVS:2025:5257, Bestuursrecht, Vreemdelingenrecht
+914, ECLI:NL:RVS:2025:5291, Bestuursrecht, 
+915, ECLI:NL:RVS:2025:5242, Bestuursrecht, 
+916, ECLI:NL:RVS:2025:5321, Bestuursrecht, Vreemdelingenrecht
+917, ECLI:NL:RVS:2025:5329, Bestuursrecht, 
+918, ECLI:NL:RVS:2025:5328, Bestuursrecht, 
+919, ECLI:NL:RVS:2025:5354, Bestuursrecht, 
+920, ECLI:NL:RVS:2025:5356, Bestuursrecht, 
+921, ECLI:NL:RVS:2025:5299, Bestuursrecht, 
+922, ECLI:NL:RVS:2025:5319, Bestuursrecht, 
+923, ECLI:NL:RVS:2025:5313, Bestuursrecht, 
+924, ECLI:NL:RVS:2025:5315, Bestuursrecht, 
+925, ECLI:NL:RVS:2025:5323, Bestuursrecht, 
+926, ECLI:NL:RVS:2025:5158, Bestuursrecht, 
+927, ECLI:NL:RVS:2025:5332, Bestuursrecht, Omgevingsrecht
+928, ECLI:NL:RVS:2025:5334, Bestuursrecht, 
+929, ECLI:NL:RVS:2025:5206, Bestuursrecht, 
+930, ECLI:NL:RVS:2025:5344, Bestuursrecht, Omgevingsrecht
+931, ECLI:NL:RVS:2025:5335, Bestuursrecht, 
+932, ECLI:NL:RVS:2025:5223, Bestuursrecht, Vreemdelingenrecht
+933, ECLI:NL:RVS:2025:5333, Bestuursrecht, 
+934, ECLI:NL:RVS:2025:5314, Bestuursrecht, Omgevingsrecht
+935, ECLI:NL:RVS:2025:5322, Bestuursrecht, 
+936, ECLI:NL:RVS:2025:5312, Bestuursrecht, 
+937, ECLI:NL:RVS:2025:5330, Bestuursrecht, 
+938, ECLI:NL:RVS:2025:5159, Bestuursrecht, 
+939, ECLI:NL:RVS:2025:5161, Bestuursrecht, 
+940, ECLI:NL:RVS:2025:5336, Bestuursrecht, 
+941, ECLI:NL:RVS:2025:5350, Bestuursrecht, 
+942, ECLI:NL:RVS:2025:5351, Bestuursrecht, 
+943, ECLI:NL:RVS:2025:5338, Bestuursrecht, 
+944, ECLI:NL:RVS:2025:5341, Bestuursrecht, 
+945, ECLI:NL:RVS:2025:5239, Bestuursrecht, Vreemdelingenrecht
+946, ECLI:NL:RVS:2025:5331, Bestuursrecht, 
+947, ECLI:NL:RVS:2025:5317, Bestuursrecht, 
+948, ECLI:NL:RVS:2025:5306, Bestuursrecht, 
+949, ECLI:NL:RVS:2025:5355, Bestuursrecht, 
+950, ECLI:NL:RVS:2025:5345, Bestuursrecht, 
+951, ECLI:NL:RVS:2025:5340, Bestuursrecht, 
+952, ECLI:NL:RVS:2025:5337, Bestuursrecht, 
+953, ECLI:NL:RVS:2025:5352, Bestuursrecht, 
+954, ECLI:NL:RVS:2025:5347, Bestuursrecht, Omgevingsrecht
+955, ECLI:NL:RVS:2025:5309, Bestuursrecht, Omgevingsrecht
+956, ECLI:NL:RVS:2025:5310, Bestuursrecht, 
+957, ECLI:NL:RVS:2025:5245, Bestuursrecht, 
+958, ECLI:NL:GHSHE:2025:3027, Strafrecht, 
+959, ECLI:NL:RBZWB:2025:7259, Bestuursrecht, Belastingrecht
+960, ECLI:NL:RBZWB:2025:7261, Bestuursrecht, Belastingrecht
+961, ECLI:NL:RBMNE:2025:5727, Bestuursrecht, Bestuursstrafrecht
+962, ECLI:NL:RVS:2025:5188, Bestuursrecht, 
+963, ECLI:NL:RBDHA:2025:20517, Bestuursrecht, Vreemdelingenrecht
+964, ECLI:NL:GHSHE:2025:1795, Civiel recht, Burgerlijk procesrecht
+965, ECLI:NL:RBZWB:2025:7262, Bestuursrecht, Belastingrecht
+966, ECLI:NL:CRVB:2025:1310, Bestuursrecht, Socialezekerheidsrecht
+967, ECLI:NL:RBDHA:2025:20501, Bestuursrecht, Vreemdelingenrecht
+968, ECLI:NL:GHARL:2025:6613, Bestuursrecht, Belastingrecht
+969, ECLI:NL:RBZWB:2025:7033, Bestuursrecht, Belastingrecht
+970, ECLI:NL:RBZWB:2025:7250, Bestuursrecht, Belastingrecht
+971, ECLI:NL:RBNNE:2025:4521, Strafrecht, Materieel strafrecht
+972, ECLI:NL:RBROT:2025:12581, Civiel recht, Verbintenissenrecht
+973, ECLI:NL:RBAMS:2025:7373, Bestuursrecht, Omgevingsrecht
+974, ECLI:NL:RBNNE:2025:4520, Strafrecht, Materieel strafrecht
+975, ECLI:NL:RBOBR:2025:7189, Bestuursrecht, 
+976, ECLI:NL:RBZWB:2025:7253, Bestuursrecht, Belastingrecht
+977, ECLI:NL:RBAMS:2025:7372, Bestuursrecht, Omgevingsrecht
+978, ECLI:NL:RBNHO:2025:8987, Bestuursrecht, Belastingrecht
+979, ECLI:NL:RBAMS:2025:3259, Bestuursrecht, Belastingrecht
+980, ECLI:NL:HR:2025:1604, Bestuursrecht, Belastingrecht
+981, ECLI:NL:RBDHA:2025:19489, Bestuursrecht, Socialezekerheidsrecht
+982, ECLI:NL:RBDHA:2025:19490, Bestuursrecht, Socialezekerheidsrecht
+983, ECLI:NL:RBDHA:2025:20508, Bestuursrecht, Vreemdelingenrecht
+984, ECLI:NL:HR:2025:1615, Bestuursrecht, Belastingrecht
+985, ECLI:NL:RBNHO:2025:10678, Bestuursrecht, Belastingrecht
+986, ECLI:NL:RBNNE:2025:3046, Bestuursrecht, Belastingrecht
+987, ECLI:NL:HR:2025:1595, Bestuursrecht, Belastingrecht
+988, ECLI:NL:RBNNE:2025:3648, Bestuursrecht, Belastingrecht
+989, ECLI:NL:GHAMS:2025:1673, Bestuursrecht, Belastingrecht
+990, ECLI:NL:GHAMS:2025:1736, Bestuursrecht, Belastingrecht
+991, ECLI:NL:HR:2025:1601, Bestuursrecht, Belastingrecht
+992, ECLI:NL:GHDHA:2025:1826, Bestuursrecht, Belastingrecht
+993, ECLI:NL:RBNHO:2025:9380, Bestuursrecht, Belastingrecht
+994, ECLI:NL:RBNHO:2025:9926, Bestuursrecht, Belastingrecht
+995, ECLI:NL:RBNHO:2025:9536, Bestuursrecht, Belastingrecht
+996, ECLI:NL:HR:2025:1603, Bestuursrecht, Belastingrecht
+997, ECLI:NL:HR:2025:1612, Bestuursrecht, Belastingrecht
+998, ECLI:NL:RBMNE:2025:5440, Civiel recht, Arbeidsrecht
+999, ECLI:NL:RBAMS:2025:3366, Bestuursrecht, Belastingrecht
+1000, ECLI:NL:GHSHE:2025:2591, Bestuursrecht, Belastingrecht

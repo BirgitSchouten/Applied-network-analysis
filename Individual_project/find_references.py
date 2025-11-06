@@ -23,18 +23,8 @@ for ecli in ECLI_numbers:
 
         # iterate over tree and branches to find actual verdict, only ECLI numbers in the verdict or footnotes are references
         for branch in tree:
-            if 'RDF' in branch.tag:
-                rdf = branch
             if 'uitspraak' in branch.tag:
                 verdict = branch
-
-        # filter law subtype from rdf
-        for child in rdf.iter():
-            if 'subject' in child.tag:
-                try:
-                    main_subject, subtopic = child.text.split('; ')
-                except:
-                    main_subject = child.text
 
         # filter out only referenced ECLI numbers, not the cleanest code but it works
         verdict_referenced_ECLI_numbers = []
