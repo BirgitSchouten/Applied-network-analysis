@@ -11,21 +11,8 @@ with open("ECLI/algemeen.txt", 'r') as infile:
 # the law subtype the verdict is classified as, will go into nodelist
 # which court made the verdict, which is part of the ECLI number, will go into nodelist
 # all ECLI numbers it references, will go into edgelist
-# create class to store this info
-class Node:
-    def __init__(self, ecli_number, main_subject, subtopic, references):
-        self.ecli_number = ecli_number
-        self.main_subject = main_subject
-        self.subtopic = subtopic
-        self.court = self.find_court()
-        self.references = references
-    
-    def find_court(self):
-        first_selection = self.ecli_number.removeprefix('ECLI:NL:')
-        location = first_selection.find(':')
-        return first_selection[:location]
 
-
+referenced_ECLI_numbers = set()
 for ecli in ECLI_numbers:
     with open(f"output/algemeen/{ecli}.txt", 'r') as infile:
         whole_text = infile.read()
@@ -46,7 +33,7 @@ for ecli in ECLI_numbers:
                 main_subject, subtopic = child.text.split('; ')
 
         # filter out only referenced ECLI numbers, not the cleanest code but it works
-        referenced_ECLI_numbers = []
+        verdict_referenced_ECLI_numbers = []
         for child in verdict.iter():
             if child.text:
                 line = child.text
@@ -55,10 +42,12 @@ for ecli in ECLI_numbers:
                     referenced_ECLI_numbers.extend([word for word in words if "ECLI:" in word])
 
         # clean ECLI numbers of possible interpuction
-        clean_referenced_ECLI_numbers = []
         for number in referenced_ECLI_numbers:
             if not number[-1].isnumeric():
-                clean_referenced_ECLI_numbers.append(number[:-1])
+                referenced_ECLI_numbers.add(number[:-1])
             else:
-                clean_referenced_ECLI_numbers.append(number)
+                referenced_ECLI_numbers.add(number)
 
+with open("ECLI/referenties_algemeen1.txt", 'w') as outfile:
+    for number in referenced_ECLI_numbers:
+        outfile.write(f"{number}\n")
