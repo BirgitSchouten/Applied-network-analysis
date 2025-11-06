@@ -13,7 +13,7 @@ search_params = {
     "subject": "http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht",
     "type": "uitspraak",
     "return": "DOC",
-    "max": "10",
+    "max": "1000",
     "sort": "DESC"
 }
 
