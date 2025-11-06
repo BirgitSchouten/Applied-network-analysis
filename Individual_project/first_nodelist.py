@@ -4,14 +4,15 @@ import xml.etree.ElementTree as ET
 ECLI_numbers = []
 with open("ECLI/algemeen_totaal.txt", 'r') as infile:
     for line in infile:
-        ECLI_numbers.append(line.strip())
+        number, location = line.strip().split(", ")
+        ECLI_numbers.append([number, location])
 
 counter = 1
 with open("output/nodelist.csv", 'w') as outfile:
     outfile.write("id, ECLI, rechtbank, rechtsgebied, subrechtsgebied\n")
-    for ecli in ECLI_numbers:
-        print(ecli)
-        with open(f"output/algemeen_referenties2/{ecli}.txt", 'r') as infile:
+    for ecliloc in ECLI_numbers:
+        ecli, location = ecliloc[0], ecliloc[1]
+        with open(f"output/{location}/{ecli}.txt", 'r') as infile:
             whole_text = infile.read()
 
             # parse XML file
