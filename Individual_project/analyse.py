@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as ET
+from test2 import find_ECLI_in_string
 
 # get all ECLI numbers because these are also the names of the files
 ECLI_numbers = []
@@ -30,7 +31,10 @@ for ecli in ECLI_numbers:
         # filter law subtype from rdf
         for child in rdf.iter():
             if 'subject' in child.tag:
-                main_subject, subtopic = child.text.split('; ')
+                try:
+                    main_subject, subtopic = child.text.split('; ')
+                except:
+                    main_subject = child.text
 
         # filter out only referenced ECLI numbers, not the cleanest code but it works
         verdict_referenced_ECLI_numbers = []
@@ -38,15 +42,10 @@ for ecli in ECLI_numbers:
             if child.text:
                 line = child.text
                 if "ECLI:" in line:
-                    words = line.split()
-                    referenced_ECLI_numbers.extend([word for word in words if "ECLI:" in word])
-
-        # clean ECLI numbers of possible interpuction
-        for number in referenced_ECLI_numbers:
-            if not number[-1].isnumeric():
-                referenced_ECLI_numbers.add(number[:-1])
-            else:
-                referenced_ECLI_numbers.add(number)
+                    verdict_referenced_ECLI_numbers.extend(find_ECLI_in_string(line))
+        
+        for number in verdict_referenced_ECLI_numbers:
+            referenced_ECLI_numbers.add(number)
 
 with open("ECLI/referenties_algemeen1.txt", 'w') as outfile:
     for number in referenced_ECLI_numbers:
