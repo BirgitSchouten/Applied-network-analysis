@@ -10,7 +10,6 @@ base_url = "http://data.rechtspraak.nl/uitspraken/zoeken?"
 
 # define search parameters
 search_params = {
-    "subject": "http://psi.rechtspraak.nl/rechtsgebied#bestuursrecht",
     "type": "uitspraak",
     "return": "DOC",
     "max": "1000",
@@ -49,6 +48,6 @@ for child in root.iter('id'):
     ECLI_numbers.append(child.text)
 
 # save ECLI in file to extract verdicts
-with open('ECLI/bestuursrecht_algemeen.txt', 'w') as output:
+with open('ECLI/algemeen.txt', 'w') as output:
     for number in ECLI_numbers:
         output.write(f"{number}\n")

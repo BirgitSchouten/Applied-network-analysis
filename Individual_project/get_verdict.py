@@ -5,7 +5,7 @@ from urllib.parse import urlencode
 base_url = "https://data.rechtspraak.nl/uitspraken/content?"
 
 # define search params from retrieved ECLI numbers
-with open("ECLI/bestuursrecht_algemeen.txt", 'r') as input:
+with open("ECLI/algemeen.txt", 'r') as input:
     for line in input:
         ecli = line.strip()
 
@@ -20,5 +20,5 @@ with open("ECLI/bestuursrecht_algemeen.txt", 'r') as input:
         response = requests.get(base_url, params = search_string)
 
         # print to output file for analysing how to edit and select relevant data
-        with open(f"output/{ecli}.txt", 'w') as outfile:
+        with open(f"output/algemeen/{ecli}.txt", 'w') as outfile:
             outfile.write(response.text)
