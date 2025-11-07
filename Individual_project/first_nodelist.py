@@ -9,7 +9,7 @@ with open("ECLI/algemeen_totaal.txt", 'r') as infile:
 
 counter = 1
 with open("output/nodelist.csv", 'w') as outfile:
-    outfile.write("id, ECLI, rechtbank, rechtsgebied, subrechtsgebied\n")
+    outfile.write("id, ECLI, rechtsgebied, subrechtsgebied\n")
     for ecliloc in ECLI_numbers:
         ecli, location = ecliloc[0], ecliloc[1]
         with open(f"output/{location}/{ecli}.txt", 'r') as infile:
