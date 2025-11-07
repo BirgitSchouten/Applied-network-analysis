@@ -1,7 +1,8 @@
 import xml.etree.ElementTree as ET
 
-ECLI_numbers = []
+ecli_id_dictionary = {}
 with open("output/nodelist.csv", 'r') as infile:
     for line in infile:
-        id, ecli, rechtbank, rechtsgebied, subrechtsgebied = line.split(", ")
-        print(id, ecli, rechtsgebied, subrechtsgebied)
+        id, ecli, rechtsgebied, subrechtsgebied = line.split(", ")
+        ecli_id_dictionary[ecli] = id
+
