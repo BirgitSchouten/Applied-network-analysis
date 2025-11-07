@@ -56,6 +56,9 @@ def find_ECLI_in_string(line):
                 location += 1
             else:
                 break
+        # remove whitespace from codes
+        country_code = country_code.strip()
+        court_code = court_code.strip()
         if check_ECLI_number(country_code, court_code, year, identifying_number):
             found_ECLI = "ECLI:" + country_code + ":" + court_code + ":" + str(year) + ":" + identifying_number
             ecli_numbers.append(found_ECLI)
