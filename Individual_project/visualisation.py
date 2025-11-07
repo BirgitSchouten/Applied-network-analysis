@@ -20,8 +20,6 @@ with open('output/edgelist.csv', 'r') as edgefile:
 isolates = list(nx.isolates(graph))
 graph.remove_nodes_from(isolates)
 
-
-
 # define coloring of nodes in visualisation based on the subject
 node_colors = []
 for n, data in graph.nodes(data = True):
